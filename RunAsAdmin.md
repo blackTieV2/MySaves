@@ -1,5 +1,7 @@
 ## Simple Batch file to bypass UAC Admin for installing programs in Windows. 
 
+Save the following commands in a .bat file
+
 ### Version 1
 
 ```bash
