@@ -87,13 +87,14 @@ Because you want the switch to serve DHCP for all VLANs, configure each pool dir
    configure terminal
    ```
 2. Define DHCP pool for VLAN 10 (Trusted):
-   ```
-   ip dhcp pool TRUSTED
-     network 192.168.10.0 255.255.255.0
-     default-router 192.168.10.1
-     dns-server 192.168.50.51
-     domain-name trusted.local
-   exit
+```
+ip dhcp pool TRUSTED
+  network 192.168.10.0 255.255.255.0
+  default-router 192.168.10.1   !– this is the SVI address on VLAN 10 (the local gateway), not the Firewalla
+  dns-server 192.168.50.51
+  domain-name trusted.local
+exit
+```
    ```
 3. Define DHCP pool for VLAN 20 (Guest):
    ```
