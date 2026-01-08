@@ -9,60 +9,47 @@
 
 ---
 
+All good catch 👍 — this is exactly why writing a **proper wiki/process** matters.
+
+Below is a **fully regenerated Step 1**, corrected and complete, with **ALL required system packages AND Puppeteer installation** included.
+
+This **replaces the old Step 1 entirely**.
+It is **GitHub-ready Markdown**, clean, copy-paste safe.
+
+---
+
 # 📘 Solomon PDF Downloader – Reproducible Setup Guide
 
 ## 📑 Table of Contents
 
 * [Overview](#overview)
 * [Assumptions](#assumptions)
-* [Step 1 – System Prerequisites](#step-1--system-prerequisites)
+* [Step 1 – System & Project Prerequisites](#step-1--system--project-prerequisites)
 * [Step 2 – Obtain Fresh Authentication Cookies](#step-2--obtain-fresh-authentication-cookies)
 * [Step 3 – Extract Resource URLs from a Course Page](#step-3--extract-resource-urls-from-a-course-page)
-
-<!-- Future steps appended incrementally -->
-
----
-
-## Overview
-
-We will:
-
-* Authenticate using **browser-exported cookies**
-* Use **Puppeteer (headless Chromium)** to behave like a real browser
-* Extract **real PDF URLs** injected by Moodle
-* Download **binary PDFs (not HTML)** reliably
-
-⚠️ Cookies are **temporary** and must be refreshed periodically.
+* [Step 4 – Test Download of a Single PDF](#step-4--test-download-of-a-single-pdf)
 
 ---
 
-## Assumptions
-
-* OS: **Kali Linux**
-* Working directory: `~/Solomon`
-* You already have:
-
-  * `download-pdfs.js`
-  * `cookies.json` (will be refreshed later)
-  * `resource_urls.txt`
-
----
-
-## Step 1 – System Prerequisites
+## Step 1 – System & Project Prerequisites
 
 ### 🎯 Goal
 
-Ensure the system has **Node.js, npm, and Puppeteer dependencies** installed correctly.
+Prepare a **clean Kali Linux environment** capable of:
 
-This step verifies that:
+* Running Node.js
+* Running Puppeteer (headless Chromium)
+* Downloading authenticated PDFs from Moodle
 
-* Node.js works
-* npm works
-* Puppeteer can launch Chromium
+This step ensures:
+
+* All OS dependencies are installed
+* Node.js + npm are available
+* Puppeteer is installed **locally** in the project
 
 ---
 
-### 1.1 Verify Node.js and npm
+## 1.1 Verify Node.js and npm
 
 Run:
 
@@ -71,20 +58,24 @@ node --version
 npm --version
 ```
 
-✅ **Expected result**:
+✅ **Required versions**:
 
 * Node.js ≥ **18**
 * npm ≥ **9**
 
-If either command fails or versions are too old, **stop here**.
+If missing or outdated:
+
+```bash
+sudo apt install -y nodejs npm
+```
 
 ---
 
-### 1.2 Install required system libraries (Chromium dependencies)
+## 1.2 Install Chromium Runtime Dependencies (MANDATORY)
 
 Puppeteer requires native libraries even in headless mode.
 
-Run:
+Run **exactly once**:
 
 ```bash
 sudo apt update
@@ -102,52 +93,95 @@ sudo apt install -y \
   libxshmfence1
 ```
 
-✅ These are **mandatory** — skipping them causes silent Chromium failures.
+⚠️ Skipping this step causes:
+
+* Chromium launch failures
+* Silent Puppeteer crashes
+* HTML instead of PDF downloads
 
 ---
 
-### 1.3 Install Node dependencies (local project)
+## 1.3 Verify Project Directory
 
-From your project directory:
+Your working directory **must not** be a shared filesystem
+(e.g. `/mnt/hgfs`, `/mnt/c`, SMB, etc.).
+
+Confirm location:
+
+```bash
+pwd
+```
+
+✅ Recommended:
+
+```text
+/home/<user>/Solomon
+```
+
+---
+
+## 1.4 Install Project Dependencies (Puppeteer)
+
+From the project directory:
 
 ```bash
 cd ~/Solomon
-npm install
+npm install puppeteer
 ```
 
 This installs:
 
 * `puppeteer`
-* Any locked dependencies from `package-lock.json`
+* Chromium binary
+* Supporting Node dependencies
 
-✅ Expected result:
+Expected result:
 
-* No errors
 * `node_modules/` directory created
+* No `ENOTSUP` or symlink errors
 
 ---
 
-### 1.4 Sanity check (no script execution yet)
+## 1.5 Verify Puppeteer Installation
 
 Run:
+
+```bash
+node -e "require('puppeteer'); console.log('Puppeteer OK')"
+```
+
+Expected output:
+
+```text
+Puppeteer OK
+```
+
+---
+
+## 1.6 Final Sanity Check
 
 ```bash
 node -e "console.log('Node OK')"
 ```
 
-Expected output:
+Expected:
 
-```
+```text
 Node OK
 ```
 
-
 ---
 
+## ✅ Step 1 Completion Criteria
 
-Absolutely — here is the **regenerated, GitHub-ready “Step 2 – Obtain Fresh Authentication Cookies”**, updated to explicitly document the **required reformatting / sanitisation step**.
+You may proceed **only if**:
 
-This is written so **future-you (or anyone else)** won’t fall into the same trap again.
+* Node.js works
+* npm works
+* Puppeteer loads without error
+* No missing shared library errors
+
+
 
 ---
 
