@@ -1,23 +1,5 @@
 ---
 
-
-# 📘 Solomon PDF Downloader – Reproducible Setup Guide
-
-> **Purpose**
-> This guide documents a repeatable, ethical process for downloading authenticated PDF resources from the Solomon (Moodle) platform using a headless browser and session cookies.
-
-
----
-
-All good catch 👍 — this is exactly why writing a **proper wiki/process** matters.
-
-Below is a **fully regenerated Step 1**, corrected and complete, with **ALL required system packages AND Puppeteer installation** included.
-
-This **replaces the old Step 1 entirely**.
-It is **GitHub-ready Markdown**, clean, copy-paste safe.
-
----
-
 # 📘 Solomon PDF Downloader – Reproducible Setup Guide
 
 ## 📑 Table of Contents
@@ -27,7 +9,7 @@ It is **GitHub-ready Markdown**, clean, copy-paste safe.
 * [Step 1 – System & Project Prerequisites](#step-1--system--project-prerequisites)
 * [Step 2 – Obtain Fresh Authentication Cookies](#step-2--obtain-fresh-authentication-cookies)
 * [Step 3 – Extract Resource URLs from a Course Page](#step-3--extract-resource-urls-from-a-course-page)
-* [Step 4 – Test Download of a Single PDF](#step-4--test-download-of-a-single-pdf)
+* [Step 4 – Test Download and Bulk Download PDFs](#step-4--test-download-and-bulk-download-pdfs)
 
 ---
 
@@ -487,6 +469,200 @@ Manually open that link in your browser — it should:
 
 ---
 
+
+
+---
+
+
+
+## Step 4 – Test Download and Bulk Download PDFs
+
+### 🎯 Goal
+
+Safely validate the downloader using **one PDF**, then scale up to download **all PDFs** for the course.
+
+This step prevents:
+
+* Mass HTML downloads
+* Session burn
+* Debugging failures across dozens of files
+
+---
+
+## 4.1 Backup the Full URL List (MANDATORY)
+
+Before modifying anything, back up the full list:
+
+```bash
+cd ~/Solomon
+cp resource_urls.txt resource_urls.full.txt
+```
+
+Verify:
+
+```bash
+wc -l resource_urls.txt resource_urls.full.txt
+```
+
+Both files should report the **same line count** at this stage.
+
+---
+
+## 4.2 Create a Single-PDF Test List
+
+Replace `resource_urls.txt` with **one URL only**:
+
+```bash
+head -n 1 resource_urls.full.txt > resource_urls.txt
+```
+
+Verify:
+
+```bash
+cat resource_urls.txt
+```
+
+Expected output example:
+
+```text
+https://solomon.ugle.org.uk/mod/resource/view.php?id=4436
+```
+
+---
+
+## 4.3 Run the Downloader (Test Mode)
+
+Execute:
+
+```bash
+node download-pdfs.js
+```
+
+Expected console behaviour:
+
+* Visits one Moodle resource page
+* Extracts the real PDF URL
+* Downloads **one file**
+* Saves it into the `Solomon/` directory
+
+---
+
+## 4.4 Verify the Downloaded File (CRITICAL)
+
+Check the file type:
+
+```bash
+file Solomon/*.pdf
+```
+
+✅ Expected:
+
+```text
+PDF document, version 1.x
+```
+
+❌ If you see:
+
+```text
+HTML document, ASCII text
+```
+
+→ Cookies are invalid or not being sent
+→ Repeat **Step 2** (cookie refresh + sanitisation)
+
+---
+
+## 4.5 Optional Visual Confirmation
+
+```bash
+xdg-open Solomon/*.pdf
+```
+
+Confirm:
+
+* Correct document
+* Correct course content
+* No login or redirect page
+
+---
+
+## 4.6 Restore the Full URL List
+
+Once the test PDF is confirmed **valid**:
+
+```bash
+mv resource_urls.full.txt resource_urls.txt
+```
+
+Verify:
+
+```bash
+wc -l resource_urls.txt
+```
+
+Expected:
+
+```text
+54 resource_urls.txt
+```
+
+(or whatever the full count is for that course)
+
+---
+
+## 4.7 Run the Downloader (Bulk Mode)
+
+Execute again:
+
+```bash
+node download-pdfs.js
+```
+
+Expected behaviour:
+
+* Iterates through all resource URLs
+* Downloads each PDF
+* Skips non-PDF resources safely
+* Saves all files into `Solomon/`
+
+---
+
+## 4.8 Final Verification
+
+```bash
+file Solomon/*.pdf
+```
+
+All files should report:
+
+```text
+PDF document, version ...
+```
+
+No HTML files should exist.
+
+---
+
+## ✅ Step 4 Completion Criteria
+
+You now have:
+
+* A validated downloader
+* All PDFs for the selected course
+* A safe, repeatable workflow
+
+---
+
+## ➡️ Next Logical Steps (Optional)
+
+* Repeat **Step 3 → Step 4** for another course
+* Add subfolders per course/module
+* Add resume logic for partial downloads
+* Archive or index PDFs
+
+---
+
+This Step 4 now documents the **entire operational flow** from safe test → full download, with no ambiguity and no hidden assumptions.
 
 
 
