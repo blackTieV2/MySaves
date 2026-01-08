@@ -1,9 +1,11 @@
 ---
 
+
 # 📘 Solomon PDF Downloader – Reproducible Setup Guide
 
 > **Purpose**
 > This guide documents a repeatable, ethical process for downloading authenticated PDF resources from the Solomon (Moodle) platform using a headless browser and session cookies.
+
 
 ---
 
