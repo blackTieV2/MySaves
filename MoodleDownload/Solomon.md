@@ -17,6 +17,7 @@
 * [Assumptions](#assumptions)
 * [Step 1 – System Prerequisites](#step-1--system-prerequisites)
 * [Step 2 – Obtain Fresh Authentication Cookies](#step-2--obtain-fresh-authentication-cookies)
+* [Step 3 – Extract Resource URLs from a Course Page](#step-3--extract-resource-urls-from-a-course-page)
 
 <!-- Future steps appended incrementally -->
 
@@ -328,6 +329,130 @@ If missing → **repeat Step 2.1–2.4**.
 ➡️ When that happens, **repeat Step 2**.
 
 ---
+
+Perfect. Here is **STEP 3 only**, written in **clean, copy-paste-ready GitHub Markdown**, continuing exactly from where we left off.
+
+No assumptions skipped, no automation yet — this step is about **building the input list correctly**.
+
+---
+
+
+
+## Step 3 – Extract Resource URLs from a Course Page
+
+### 🎯 Goal
+
+Generate a clean `resource_urls.txt` file containing **only Moodle resource links** of the form:
+
+```text
+https://solomon.ugle.org.uk/mod/resource/view.php?id=XXXX
+```
+
+These URLs are the **inputs** to the downloader script.
+
+---
+
+## 3.1 Open the Target Course in Browser
+
+In your browser (same one used for cookies):
+
+1. Navigate to the course page
+   Example (First Degree):
+
+```
+https://solomon.ugle.org.uk/course/view.php?id=79
+```
+
+2. Ensure:
+
+   * You are logged in
+   * All sections are expanded
+   * PDFs are visible on the page
+
+---
+
+## 3.2 Save the Course Page HTML
+
+This step freezes the page so links can be extracted reliably.
+
+### Option A – Browser (recommended)
+
+1. Right-click → **Save Page As**
+2. Save as:
+
+   ```text
+   Solomon-FirstDegree.html
+   ```
+3. Copy the file into your Kali working directory:
+
+```bash
+cp /path/to/Solomon-FirstDegree.html ~/Solomon/
+```
+
+---
+
+## 3.3 Extract Resource Links from HTML
+
+From your working directory:
+
+```bash
+cd ~/Solomon
+```
+
+Run:
+
+```bash
+grep -oP 'https:\/\/solomon\.ugle\.org\.uk\/mod\/resource\/view\.php\?id=\d+' Solomon-FirstDegree.html \
+  | sort -u > resource_urls.txt
+```
+
+### What this does:
+
+* Finds **only** Moodle resource links
+* Removes duplicates
+* Outputs one URL per line
+
+---
+
+## 3.4 Verify resource_urls.txt
+
+Inspect the file:
+
+```bash
+cat resource_urls.txt
+```
+
+Expected output example:
+
+```text
+https://solomon.ugle.org.uk/mod/resource/view.php?id=2301
+https://solomon.ugle.org.uk/mod/resource/view.php?id=2302
+https://solomon.ugle.org.uk/mod/resource/view.php?id=2303
+```
+
+Optional count check:
+
+```bash
+wc -l resource_urls.txt
+```
+
+---
+
+## 3.5 Sanity Check (Single URL)
+
+Before bulk downloading, confirm the first entry matches what you see in the browser:
+
+```bash
+head -n 1 resource_urls.txt
+```
+
+Manually open that link in your browser — it should:
+
+* Belong to the correct course
+* Point to a PDF resource
+
+---
+
 
 
 
