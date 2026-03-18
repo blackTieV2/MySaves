@@ -2,10 +2,11 @@
 ```mermaid
 flowchart TD
 
-A[Lift Identified] --> B[Categorise Lift]
-B --> C[Risk Assessment]
-C --> D[Lift Planning]
-D --> E[Pre-Lift Verification]
-E --> F[Execute Lift]
-F --> G[Post Lift Review]
+    A[Prepare and Organise the Lift] --> B[Lift Classification and Categorisation]
+    B --> C[Hazard Identification and Risk Assessment]
+    C --> D[Check Lifting Equipment and Rigging Integrity]
+    D --> E[Plan the Lift]
+    E --> F[Special Lifting Operations]
+    F --> G[Execute the Lift]
+    G --> H[Post-Lift Activities]
 ```
