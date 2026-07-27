@@ -1,0 +1,627 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The High Chair Tyrant",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          467.72291296625224,
+          208.41514041514043
+        ],
+        [
+          565.1651865008881,
+          208.41514041514043
+        ],
+        [
+          565.1651865008881,
+          220.3564453125
+        ],
+        [
+          467.72291296625224,
+          220.3564453125
+        ]
+      ]
+    },
+    {
+      "title": "The Weakling Prince",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          470.11041852181654,
+          239.25
+        ],
+        [
+          557.8343722172751,
+          239.25
+        ],
+        [
+          557.8343722172751,
+          250.716796875
+        ],
+        [
+          470.11041852181654,
+          250.716796875
+        ]
+      ]
+    },
+    {
+      "title": "Accessing the Divine Child",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          57.1474609375,
+          156.75
+        ],
+        [
+          166.45057880676757,
+          155.689453125
+        ],
+        [
+          166.45057880676757,
+          167.044921875
+        ],
+        [
+          57.1474609375,
+          168.240234375
+        ]
+      ]
+    },
+    {
+      "title": "The Precocious Child",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          470.86019590382904,
+          296.138671875
+        ],
+        [
+          584.0765805877114,
+          296.138671875
+        ],
+        [
+          584.0765805877114,
+          306.298828125
+        ],
+        [
+          469.513671875,
+          306.298828125
+        ]
+      ]
+    },
+    {
+      "title": "The Know-It-All Trickster",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          64.48085485307213,
+          349.5
+        ],
+        [
+          173.19857524487978,
+          348.732421875
+        ],
+        [
+          173.19857524487978,
+          358.5
+        ],
+        [
+          64.48085485307213,
+          358.892578125
+        ]
+      ]
+    },
+    {
+      "title": "The Dummy",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          467.4580078125,
+          237.26953125
+        ],
+        [
+          522.5948352626892,
+          237.26953125
+        ],
+        [
+          522.5948352626892,
+          249.22265625
+        ],
+        [
+          467.4580078125,
+          249.22265625
+        ]
+      ]
+    },
+    {
+      "title": "The Oedipal Child",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          470.11041852181654,
+          509.203125
+        ],
+        [
+          566.8317008014247,
+          509.203125
+        ],
+        [
+          566.8317008014247,
+          521.15625
+        ],
+        [
+          470.11041852181654,
+          521.15625
+        ]
+      ]
+    },
+    {
+      "title": "The Mama's Boy",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          462.61264470169186,
+          114.75
+        ],
+        [
+          535.3410507569012,
+          113.853515625
+        ],
+        [
+          535.3410507569012,
+          125.208984375
+        ],
+        [
+          462.61264470169186,
+          126.404296875
+        ]
+      ]
+    },
+    {
+      "title": "The Dreamer",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          62.0810546875,
+          449.736328125
+        ],
+        [
+          118.46482635796971,
+          449.736328125
+        ],
+        [
+          118.46482635796971,
+          461.091796875
+        ],
+        [
+          62.0810546875,
+          461.091796875
+        ]
+      ]
+    },
+    {
+      "title": "The Hero",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          464.8619768477293,
+          258.75
+        ],
+        [
+          515.0970614425645,
+          258.75
+        ],
+        [
+          515.0970614425645,
+          268.34765625
+        ],
+        [
+          464.8619768477293,
+          268.34765625
+        ]
+      ]
+    },
+    {
+      "title": "The Grandstander Bully",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          467.046875,
+          439.27734375
+        ],
+        [
+          567.5814781834372,
+          439.27734375
+        ],
+        [
+          567.5814781834372,
+          451.23046875
+        ],
+        [
+          465.40234375,
+          451.23046875
+        ]
+      ]
+    },
+    {
+      "title": "The Coward",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          469.1025390625,
+          525.041015625
+        ],
+        [
+          521.0952804986642,
+          523.845703125
+        ],
+        [
+          521.0952804986642,
+          534.005859375
+        ],
+        [
+          469.1025390625,
+          535.201171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          68
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          83
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          82
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          82
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          79
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          83
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          86
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          82
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          83
+        ],
+        [
+          "Span",
+          17
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          86
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\King"
+}
