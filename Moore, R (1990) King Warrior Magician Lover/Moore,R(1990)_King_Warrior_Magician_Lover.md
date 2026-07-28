@@ -613,9 +613,16 @@ The Tyrant exploits and abuses others. He is ruthless, merciless, and without fe
 
 It is the Shadow King as Tyrant in the father who makes war on his sons' (and his daughters') joy and strength, their abilities and vitality. He fears their freshness, their newness of being, and the life-force surging through them, and he seeks to kill it. He does this with open verbal assaults and deprecation of their interests, hopes, and talents; or he does it, alternately, by ignoring their accomplishments, turning his back on their disappointments, and registering boredom and lack of interest when, for instance, they come home from school and present him with a piece of artwork or a good grade on a test.
 
-![King Arthur (Illustration by Trevor Stubley from The Book of Merlyn by T. H. White, © 1977. Reproduced by permission of the University of Texas Press, Austin.)](_page_43_Picture_9.jpeg)
+<figure>
+  <img src="_page_43_Picture_9.jpeg"
+       alt="King Arthur (Illustration by Trevor Stubley from The Book of Merlyn by T. H. White, © 1977. Reproduced by permission of the University of Texas Press, Austin.)">
 
+  <figcaption>
+    <em>King Arthur (Illustration by Trevor Stubley from The Book of Merlyn by T. H. White, © 1977. Reproduced by permission of the University of Texas Press, Austin.)</em>
+  </figcaption>
+</figure>
 
+<p>&nbsp;</p>
 His attacks may not be limited to verbal or psychological abuse; they may include physical abuse. Spankings may turn into beatings. And there may be sexual assaults as well. The father possessed by the Tyrant may sexually exploit his daughters' or even his sons' weakness and vulnerability.
 
 A young woman came for counseling because she was having a lot of trouble in her marriage. What she described, soon after entering therapy, was an invasion of her home by the Tyrant King in this sexually malignant aspect. At about the age of twelve, her father had left her, her mother, and her sister and moved in with another woman. That woman's husband had then moved in with them. This man never liked his new "wife," and he was quick to spot his new stepdaughter's beauty and vulnerability. He began demanding that she sleep with him, at first just lying beside him in bed at night. Then he began demanding that she masturbate him, so that he ejaculated into tissues that he kept by the bed. Eventually, he forced her to have sex with him, on the threat that if she didn't, he would leave them, and they would have nowhere to turn financially. The young woman's mother never made a move to stop this horrendous abuse of her daughter and busied herself in the mornings cleaning under the mattress where the soiled tissues from the night before had been stuffed.
@@ -711,8 +718,16 @@ An example of this is the phenomenon of guerrilla warfare, an ancient tradition 
 
 In the Bible, King David, up against the superior force of the armies of Saul, at first avoided direct confrontation with Saul's troops, allowing Saul to wear himself out pursuing him. David and his ragtag band were guerrillas, living off the land and moving fast. Then David, evaluating his situation clearly, fled Saul's kingdom and went over to the Philistine king. From this position, he had the force of thousands of Philistine soldiers behind him. He had put himself into position to checkmate Saul. Then, again through his accurate assessment of the situation at the time, David reentered Saul's kingdom, gathered his own troops, and waited for Saul's collapse. Sometimes, the maxim "Forward, always forward!" means shifting tactics. It means a flexibility of strategy that comes from razor-sharp evaluation.
 
-![Achilles and Patroclus (Internal medallion of cup illustration by Greek Sosias Painter, ca. 500 B.C.E. Courtesy of Antikenmuseum Berlin, Staatliche Museen Preuffischer Kulturbesitz. Photo: Ute Jung.)](_page_51_Picture_8.jpeg)
+<figure>
+  <img src="_page_51_Picture_8.jpeg"
+       alt="Achilles and Patroclus (Internal medallion of cup illustration by Greek Sosias Painter, ca. 500 B.C.E. Courtesy of Antikenmuseum Berlin, Staatliche Museen Preuffischer Kulturbesitz. Photo: Ute Jung.)">
 
+  <figcaption>
+    <em>Achilles and Patroclus (Internal medallion of cup illustration by Greek Sosias Painter, ca. 500 B.C.E. Courtesy of Antikenmuseum Berlin, Staatliche Museen Preuffischer Kulturbesitz. Photo: Ute Jung.)</em>
+  </figcaption>
+</figure>
+
+<p>&nbsp;</p>
 Modern fencing uses this kind of flexibility. Not only does the fencer train his body, he trains his mind as well. He learns to think with lightning speed, to look for the unguarded points in his opponent's stances and lunges; then he parries, attacks, and scores his hits. A young college man reported that after he took up fencing his classroom performance improved. He was able to spot, with lightning-swift clarity, the major themes in a complex lecture, evaluate the weaknesses in the supporting arguments, challenge statements with a sharpness of vision and a self-confidence he'd never known before, and force his professors and fellow students to either talk sense or drop their arguments. He knew then what he wanted to learn. And he knew how to get it.
 
 The Warrior traditions all affirm that, in addition to training, what enables a Warrior to reach clarity of thought is living with the awareness of his own imminent death. The Warrior knows the shortness of life and how fragile it is. A man under the guidance of the Warrior knows how few his days are. Rather than depressing him, this awareness leads him to an outpouring of life-force and to an intense experience of his life that is unknown to others. Every act counts. Each deed is done as if it were the last. The samurai swordsmen were taught to live their lives as if they were already dead. Castañeda's Don Juan taught that there is "no time" for anything but meaningful acts if we live with death as "our eternal companion."
@@ -899,9 +914,16 @@ The Magician, then, is the archetype of thoughtfulness and reflection. And, beca
 
 The Magician often comes on line in a crisis. A middle-aged man reported to us what happened to him in a recent car accident. It was winter, and he was coming down a hill. There was a car ahead of him stopped at a stop sign at the bottom of the hill. Suddenly, in the middle of his normal braking procedures, he hit a patch of ice. His brakes locked and his car took off down the hill like a rocket. He felt panic as he slid straight for the rear bumper of the other car. Then something remarkable happened: a shift of consciousness. All of a sudden, everything seemed to move in slow motion. The man felt calm and steady. He now had the "time" to sort through what few options he had. It was as if a computer took over, some other kind of intelligence within him. And a "voice" from within told him to release the brake pedal, pump it a few times, and steer as best he could to the right. That way, he would hit the car below him at an angle, minimizing the impact, and more or less harmlessly come to a stop in the soft, snowy embankment at the side of the road. The man executed these maneuvers successfully.
 
-![Hermes Trismegistus, Sophic Sulphur and Mercury (Engraving from Symbola Aureae Mensae, courtesy of the British Library, London.)](_page_65_Picture_7.jpeg)
+<figure>
+  <img src="_page_65_Picture_7.jpeg"
+       alt="Hermes Trismegistus, Sophic Sulphur and Mercury (Engraving from Symbola Aureae Mensae, courtesy of the British Library, London.)">
 
+  <figcaption>
+    <em>Hermes Trismegistus, Sophic Sulphur and Mercury (Engraving from Symbola Aureae Mensae, courtesy of the British Library, London.)</em>
+  </figcaption>
+</figure>
 
+<p>&nbsp;</p>
 What we think he was reporting was sudden access to the Magician energy, an energy whose detached "knowledge" of various possible outcomes and understanding of lines of force (of containment and channeling) could help him, through technical proficiency, make the best of a bad situation.
 
 If we think for a moment about all the areas of our lives in which clear, careful thinking based on inner wisdom and technical proficiency would help, then we realize our need to properly access the Magician.
@@ -926,8 +948,16 @@ Too often, as well, in the consulting room, the therapist will withhold informat
 
 This withholding and secretiveness for the purpose of self-aggrandizement are also to be seen on "Madison Avenue." The whole-sale manipulation of the public psyche by the advertisers to feed the greed and status-seeking of the companies they work for, even to the point of outright lying, displays a cynical detachment from the realm of genuine relatedness that is every bit as destructive and self-serving as anything done by the propaganda ministries of totalitarian governments. Through their skillful use of images and symbols that appeal to the wounds of their fellow human beings, these charlatans rattle the beads and shake the feathers of the black magic practitioner, the evil sorcerer, the voodoo witch doctor.
 
-![The mad scientist (From Werewolf of London. Photo courtesy of Culver Pictures, Inc.)](_page_67_Picture_9.jpeg)
+<figure>
+  <img src="_page_67_Picture_9.jpeg"
+       alt="The mad scientist (From Werewolf of London. Photo courtesy of Culver Pictures, Inc.)">
 
+  <figcaption>
+    <em>The mad scientist (From Werewolf of London. Photo courtesy of Culver Pictures, Inc.)</em>
+  </figcaption>
+</figure>
+
+<p>&nbsp;</p>
 The man under the power of the Manipulator not only hurts others with his cynical detachment from the world of human values and his subliminal technologies of manipulation, he also hurts himself. This is the man who thinks too much, who stands back from his life and never lives it. He is caught in a web of pros and cons about his decisions and lost in a labyrinth of reflective meanderings from which he cannot extricate himself. He is afraid to live, to "leap into battle." He can only sit on his rock and think. The years pass. He wonders where the time has gone. And he ends by regretting a life of sterility. He is a voyeur, an armchair adventurer. In the world of academia, he is a hairsplitter. In his fear of making the wrong decision, he makes none. In his fear of living, he also cannot participate in the joy and pleasure that other people experience in their lived lives. If he is withholding from others, and not sharing what he knows, he eventually feels isolated and lonely. To the extent that he has hurt others with his knowledge and his technologyin whatever field and in whatever way-by cutting himself off from living relatedness with other human beings, he has cut off his own soul.
 
 A number of years ago there was a *Twilight Zone* story about a man possessed by the Shadow Magician in this way. This man loved to read, and believed himself to be superior to his fellow human beings. He rebuffed others' attempts to get to know him and to get him to share his rather considerable knowledge. Then one day there was a nuclear war, and this man was the last human being left alive on the earth. Rather than being devastated about this development, he was elated, and he hurried to the nearest library. There he found the building in ruins and thousands of books scattered on the ground. In great joy, he bent over to look at the first heap of them, and dropped his glasses in the rubble. The lenses shattered.
@@ -996,8 +1026,16 @@ The man under the influence of the Lover wants to touch and be touched. He wants
 
 He has what is known as an aesthetic consciousness. He experiences everything, no matter what it is, aesthetically. All of life is art to him and evokes subtly nuanced feelings. The nomads of the Kalahari are Lovers. They are aesthetically attuned to everything in their environment. They see hundreds of colors in their desert world, subtle nuances of light and shadow and shades of what to us are simply browns or tans.
 
-![Lovers (Mithuna) (India: Madhya Pradesh, Khajuraho style, eleventh century C.E., courtesy of Cleveland Museum of Art, Leonard C. Hanna, Jr. Fund, CMA 82.64.)](_page_72_Picture_7.jpeg)
+<figure>
+  <img src="_page_72_Picture_7.jpeg"
+       alt="Lovers (Mithuna) (India: Madhya Pradesh, Khajuraho style, eleventh century C.E., courtesy of Cleveland Museum of Art, Leonard C. Hanna, Jr. Fund, CMA 82.64.)">
 
+  <figcaption>
+    <em>Lovers (Mithuna) (India: Madhya Pradesh, Khajuraho style, eleventh century C.E., courtesy of Cleveland Museum of Art, Leonard C. Hanna, Jr. Fund, CMA 82.64.)</em>
+  </figcaption>
+</figure>
+
+<p>&nbsp;</p>
 The Lover energy, arising as it does out of the Oedipal Child, is also the source of spirituality—especially of what we call mysticism. In the mystical tradition, which underlies and is present in all the world's religions, the Lover energy, through the mystics, intuits the ultimate Oneness of all that is and actively seeks to experience that Oneness in daily life, while it still dwells in a mortal, finite man.
 
 The same boy who could imagine himself as an ant also reported what we could see as the beginnings of mystical experience in his account of a peculiar feeling he had on certain occasions at a YMCA camp one summer. Once a week, the campers would be roused from their beds late at night and trekked along obscure forest paths in the pitch blackness to a central clearing, there to watch a reenactment of ancient Native American songs and dances. This boy said that often, as he was snaking his way along behind the other boys from his cabin, he would have the almost uncontrollable urge to open his arms wide to the darkness and to fly into it, feeling the trees tear through his "spiritual body" with no pain, just a feeling of ecstasy. He said he felt like he wanted to be "one" with the mystery of the dark unknown and with the threatening yet strangely reassuring night forest. These kinds of sensations are exactly what the mystics of the world's religions describe when they talk about their urge to become One with the Mystery.
@@ -1086,8 +1124,16 @@ This lostness shows up, too, in the way that the Addict lives for the pleasure o
 
 What happens when we are caught in the fires of love, roasting in the agony and the ecstasy of our own longings, is that we are unable to disincarnate, to step back, to act. We are unable to, as we say, "come to ourselves." We are unable to detach and to gain distance from our feelings. Many are the lives that are ruined because people cannot extricate themselves from destructive marriages and relationships. Whenever we feel ourselves caught in an addictive relationship, we had better beware, because the chances are very good that we have become victims of the Shadow Lover.
 
-![Don Juan (Courtesy of The Bettman Archive.)](_page_78_Picture_4.jpeg)
+<figure>
+  <img src="_page_78_Picture_4.jpeg"
+       alt="Don Juan (Courtesy of The Bettman Archive.)">
 
+  <figcaption>
+    <em>Don Juan (Courtesy of The Bettman Archive.)</em>
+  </figcaption>
+</figure>
+
+<p>&nbsp;</p>
 In his lostness—within and without—the victim of the active pole of the Shadow Lover is eternally restless. This is the man who is always searching for something. He doesn't know what it is he's looking for, but he's the cowboy at the end of the movie riding off alone into the sunset seeking some other excitement, some other adventure, unable to settle down. He has an insatiable hunger to experience some vague something that is just over the next hill. He is compelled to extend the frontiers not of knowledge (for that would be liberating for him) but of his sensuality, no matter what the cost to the mortal man who badly needs, as all mortal men do, merely human happiness. This is James Bond and Indiana Jones, loving and leaving to love again, and leave again.
 
 Here's where we see the Don Juan syndrome, and where we can touch base with the monogamy/promiscuity issue again. Monogamy (though not in a simple way) can be seen as the product of a man's own deep rootedness and centeredness. He is bounded, not by external rules but by his own inner structures, his own sense of his masculine wellbeing and calm, and his own inner joy. But the man moving from one woman to another, compulsively searching for he knows not what, is a man whose inner structures have not yet solidified. Because he himself is fragmented within, and not centered, he is pushed and pulled around by the illusory wholeness he thinks is out there in the world of feminine forms and sensual experiences.
