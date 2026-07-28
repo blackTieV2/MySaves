@@ -776,11 +776,9 @@ The Warrior as avenging spirit comes into us when we are very frightened and ver
 
 Along with this passion for destruction and cruelty goes a hatred of the "weak," of the helpless and vulnerable (really the Sadist's own hidden Masochist). We've already mentioned the slapping incident in Patton's career. We see this same kind of sadism displayed in boot camp in the name of supposedly necessary "ritual humiliation" designed to deprive recruits of their individuality and put them under the power of a transpersonal devotion. Far too often, the drill sergeant's motives are the motives of the sadistic Warrior seeking to humiliate and violate the men put in his charge. And what can we make of the revolting practice of the Turkish army in World War I, when, after taking an Arab village, the soldiers delighted in cutting open pregnant women with their bayonets, ripping out their unborn babies, and hanging them around their necks?
 
-It may seem at first unlikely, but the sadistic Warrior's cruelty is directly related to what is wrong with the Hero energy; there are similarities between the Shadow Warrior and the Hero. The Shadow Warrior carries into adulthood the adolescent insecurity, violent emotionalism, and the desperation of the Hero as he seeks to make a stand against the overwhelming power of the feminine, which always tends
+It may seem at first unlikely, but the sadistic Warrior's cruelty is directly related to what is wrong with the Hero energy; there are similarities between the Shadow Warrior and the Hero. The Shadow Warrior carries into adulthood the adolescent insecurity, violent emotionalism, and the desperation of the Hero as he seeks to make a stand against the overwhelming power of the feminine, which always tends to evoke the masochistic, or cowardly, pole of the Hero's dysfunctional Shadow. The man under the influence of the Shadow Warrior's bipolarity, unsure of his legitimate phallic power, is still battling against what he experiences as the inordinately powerful feminine and against everything supposedly "soft" and relational. Even in adulthood, he still feels terrified that he will be swallowed up by it. His desperate fear of this leads him to wanton brutality.
 
 ![](_page_56_Picture_8.jpeg)
-
-93 to evoke the masochistic, or cowardly, pole of the Hero's dysfunctional Shadow. The man under the influence of the Shadow Warrior's bipolarity, unsure of his legitimate phallic power, is still battling against what he experiences as the inordinately powerful feminine and against everything supposedly "soft" and relational. Even in adulthood, he still feels terrified that he will be swallowed up by it. His desperate fear of this leads him to wanton brutality.
 
 We don't have far to look to see this destructive Warrior operating in our own lives. Sadly, we must acknowledge it in the workplace whenever a boss puts down, harasses, unjustly fires, or in many other ways mistreats his subordinates. We must also acknowledge the Sadist in our homes, in the appalling statistics of wife beating and child abuse.
 
@@ -822,10 +820,7 @@ It is thought by some anthropologists that in the very ancient past the masculin
 
 This secret knowledge, of course, gives the magician an enormous amount of power. And because he has knowledge of the dynamics of energy flows and patterns in nature, in human individuals and societies, and among the gods—the deep unconscious forces—he is a master at containing and channeling power.
 
-It was the magicians along the Tigris and Euphrates rivers, and along the Nile in Egypt, who created civilization as we know it. It was they who invented the secrets of written language, who discovered mathematics and engineering, astronomy, and law. The pharaohs had
-
-
-what the Bible calls wizards at their courts to advise them about all these things. The legendary Egyptian magician Imhotep (ca. 2800 B.C.E.) is credited with important discoveries in medicine, engineering, and other sciences. He designed and built the first great pyramid, the so-called Stepped Pyramid of Pharaoh Djoser. He was the Einstein and the Jonas Salk of his day.
+It was the magicians along the Tigris and Euphrates rivers, and along the Nile in Egypt, who created civilization as we know it. It was they who invented the secrets of written language, who discovered mathematics and engineering, astronomy, and law. The pharaohs had what the Bible calls wizards at their courts to advise them about all these things. The legendary Egyptian magician Imhotep (ca. 2800 B.C.E.) is credited with important discoveries in medicine, engineering, and other sciences. He designed and built the first great pyramid, the so-called Stepped Pyramid of Pharaoh Djoser. He was the Einstein and the Jonas Salk of his day.
 
 One aspect of the magician's knowing, of his seeing into the depths not only of nature but of human beings was his capacity to deflate the arrogance, especially of kings, but also of any important public official. The Magician archetype in a man is his "bullshit detector"; it sees through denial and exercises discernment. He sees evil for what and where it is when it masquerades as goodness, as it so often does. In ancient times when a king became possessed by his angry feelings and wanted to punish a village that had refused to pay its taxes, the magician, with measured and reasoned thinking or with the stabbing blows of logic, would reawaken the king's conscience and good sense by releasing him from his tempestuous mood. The court magician, in effect, was the king's psychotherapist.
 
@@ -895,9 +890,8 @@ The Magician, then, is the archetype of thoughtfulness and reflection. And, beca
 
 The Magician often comes on line in a crisis. A middle-aged man reported to us what happened to him in a recent car accident. It was winter, and he was coming down a hill. There was a car ahead of him stopped at a stop sign at the bottom of the hill. Suddenly, in the middle of his normal braking procedures, he hit a patch of ice. His brakes locked and his car took off down the hill like a rocket. He felt panic as he slid straight for the rear bumper of the other car. Then something remarkable happened: a shift of consciousness. All of a sudden, everything seemed to move in slow motion. The man felt calm and steady. He now had the "time" to sort through what few options he had. It was as if a computer took over, some other kind of intelligence within him. And a "voice" from within told him to release the brake pedal, pump it a few times, and steer as best he could to the right. That way, he would hit the car below him at an angle, minimizing the impact, and more or less harmlessly come to a stop in the soft, snowy embankment at the side of the road. The man executed these maneuvers successfully.
 
-![](_page_65_Picture_7.jpeg)
+![Hermes Trismegistus, Sophic Sulphur and Mercury (Engraving from Symbola Aureae Mensae, courtesy of the British Library, London.)](_page_65_Picture_7.jpeg)
 
-Hermes Trismegistus, Sophic Sulphur and Mercury (Engraving from Symbola Aureae Mensae, courtesy of the British Library, London.)
 
 What we think he was reporting was sudden access to the Magician energy, an energy whose detached "knowledge" of various possible outcomes and understanding of lines of force (of containment and channeling) could help him, through technical proficiency, make the best of a bad situation.
 
@@ -921,13 +915,9 @@ The growing complexity of law and the coded language of legal proceedings and do
 
 Too often, as well, in the consulting room, the therapist will withhold information that the client needs in order to get better and will subtly, or not so subtly, communicate to the client, "I am the keeper of great wisdom and secret knowledge, a wisdom and a knowledge you need in order to become well. I have it. Try to get it from me. And by the way, leave your check with my secretary on the way out."
 
-This withholding and secretiveness for the purpose of self-aggrandizement are also to be seen on "Madison Avenue." The whole-sale manipulation of the public psyche by the advertisers to feed the greed and status-seeking of the companies they work for, even to the point of outright lying, displays a cynical detachment from the realm of
+This withholding and secretiveness for the purpose of self-aggrandizement are also to be seen on "Madison Avenue." The whole-sale manipulation of the public psyche by the advertisers to feed the greed and status-seeking of the companies they work for, even to the point of outright lying, displays a cynical detachment from the realm of genuine relatedness that is every bit as destructive and self-serving as anything done by the propaganda ministries of totalitarian governments. Through their skillful use of images and symbols that appeal to the wounds of their fellow human beings, these charlatans rattle the beads and shake the feathers of the black magic practitioner, the evil sorcerer, the voodoo witch doctor.
 
-![](_page_67_Picture_9.jpeg)
-
-The mad scientist (From Werewolf of London. Photo courtesy of Culver Pictures, Inc.)
-
-genuine relatedness that is every bit as destructive and self-serving as anything done by the propaganda ministries of totalitarian governments. Through their skillful use of images and symbols that appeal to the wounds of their fellow human beings, these charlatans rattle the beads and shake the feathers of the black magic practitioner, the evil sorcerer, the voodoo witch doctor.
+![The mad scientist (From Werewolf of London. Photo courtesy of Culver Pictures, Inc.)](_page_67_Picture_9.jpeg)
 
 The man under the power of the Manipulator not only hurts others with his cynical detachment from the world of human values and his subliminal technologies of manipulation, he also hurts himself. This is the man who thinks too much, who stands back from his life and never lives it. He is caught in a web of pros and cons about his decisions and lost in a labyrinth of reflective meanderings from which he cannot extricate himself. He is afraid to live, to "leap into battle." He can only sit on his rock and think. The years pass. He wonders where the time has gone. And he ends by regretting a life of sterility. He is a voyeur, an armchair adventurer. In the world of academia, he is a hairsplitter. In his fear of making the wrong decision, he makes none. In his fear of living, he also cannot participate in the joy and pleasure that other people experience in their lived lives. If he is withholding from others, and not sharing what he knows, he eventually feels isolated and lonely. To the extent that he has hurt others with his knowledge and his technologyin whatever field and in whatever way-by cutting himself off from living relatedness with other human beings, he has cut off his own soul.
 
@@ -997,9 +987,7 @@ The man under the influence of the Lover wants to touch and be touched. He wants
 
 He has what is known as an aesthetic consciousness. He experiences everything, no matter what it is, aesthetically. All of life is art to him and evokes subtly nuanced feelings. The nomads of the Kalahari are Lovers. They are aesthetically attuned to everything in their environment. They see hundreds of colors in their desert world, subtle nuances of light and shadow and shades of what to us are simply browns or tans.
 
-![](_page_72_Picture_7.jpeg)
-
-Lovers (Mithuna) (India: Madhya Pradesh, Khajuraho style, eleventh century C.E., courtesy of Cleveland Museum of Art, Leonard C. Hanna, Jr. Fund, CMA 82.64.)
+![Lovers (Mithuna) (India: Madhya Pradesh, Khajuraho style, eleventh century C.E., courtesy of Cleveland Museum of Art, Leonard C. Hanna, Jr. Fund, CMA 82.64.)](_page_72_Picture_7.jpeg)
 
 The Lover energy, arising as it does out of the Oedipal Child, is also the source of spirituality—especially of what we call mysticism. In the mystical tradition, which underlies and is present in all the world's religions, the Lover energy, through the mystics, intuits the ultimate Oneness of all that is and actively seeks to experience that Oneness in daily life, while it still dwells in a mortal, finite man.
 
@@ -1029,9 +1017,7 @@ In the history of our religions and the cultures that flow from them, we can see
 
 Following the ancient Hebrew practice, the Church also persecuted psychics and mediums, people who along with artists and others live very close to the image-making unconscious, and, hence, to the Lover. Here is a source of the witch burnings of the Middle Ages. Some of the witches, as far as the Church was concerned, were not only psychic—that is, deeply intuitive and sensitive to impressions from the inner world of nuanced feelings—but they were also nature worshipers. Because the Church labeled the world of nature evil, the witches were believed to be worshipers of Satan, the Lover.
 
-To this day, many Christians are still scandalized by the one truly erotic book in the Bible: the Song of Solomon. It is a series of love poems
-
-(based on ancient Canaanite fertility rituals) and it is pornographic in the best sense of the word. It describes the amor—the physical and spiritual bonding—between a man and a woman. The only way that these moralistic Christians can accept the Song of Solomon is by interpreting it as an allegory of "Christ's love for the Church."
+To this day, many Christians are still scandalized by the one truly erotic book in the Bible: the Song of Solomon. It is a series of love poems (based on ancient Canaanite fertility rituals) and it is pornographic in the best sense of the word. It describes the amor—the physical and spiritual bonding—between a man and a woman. The only way that these moralistic Christians can accept the Song of Solomon is by interpreting it as an allegory of "Christ's love for the Church."
 
 Archetypes cannot be banished or wished away. The Lover crept back into Christianity in the form of Christian mysticism, through romantic and sentimental pictures of a "sweet Jesus, meek and mild," and through the hymnal. If we think for a moment about the erotic undertones in hymns such as "In the Garden," "Love Lifted Me," and "Jesus, Lover of My Soul," to mention just a few, we can see the Lover coloring an essentially ascetic and moralistic religion with his irrepressible passion,
 
@@ -1089,13 +1075,9 @@ There are stories of so-called addictive personalities—people who can't stop e
 
 This lostness shows up, too, in the way that the Addict lives for the pleasure of the moment only and locks us into a web of immobility from which we cannot escape. This is what the theologian Reinhold Niebuhr talked about as "the sin of sensuality." And it's what the Hindus talk about as *maya*—the dance of illusion, the intoxicating (addictive) dance of sensuous things that enchants and enthralls the mind, catching us up in the cycles of pleasure and pain.
 
-What happens when we are caught in the fires of love, roasting in the agony and the ecstasy of our own longings, is that we are unable to disincarnate, to step back, to act. We are unable to, as we say, "come to ourselves." We are unable to detach and to gain distance from our feelings. Many are the lives that are ruined because people cannot extricate themselves from destructive marriages and relationships. Whenever we
+What happens when we are caught in the fires of love, roasting in the agony and the ecstasy of our own longings, is that we are unable to disincarnate, to step back, to act. We are unable to, as we say, "come to ourselves." We are unable to detach and to gain distance from our feelings. Many are the lives that are ruined because people cannot extricate themselves from destructive marriages and relationships. Whenever we feel ourselves caught in an addictive relationship, we had better beware, because the chances are very good that we have become victims of the Shadow Lover.
 
-![](_page_78_Picture_4.jpeg)
-
-Don Juan (Courtesy of The Bettman Archive.)
-
-feel ourselves caught in an addictive relationship, we had better beware, because the chances are very good that we have become victims of the Shadow Lover.
+![Don Juan (Courtesy of The Bettman Archive.)](_page_78_Picture_4.jpeg)
 
 In his lostness—within and without—the victim of the active pole of the Shadow Lover is eternally restless. This is the man who is always searching for something. He doesn't know what it is he's looking for, but he's the cowboy at the end of the movie riding off alone into the sunset seeking some other excitement, some other adventure, unable to settle down. He has an insatiable hunger to experience some vague something that is just over the next hill. He is compelled to extend the frontiers not of knowledge (for that would be liberating for him) but of his sensuality, no matter what the cost to the mortal man who badly needs, as all mortal men do, merely human happiness. This is James Bond and Indiana Jones, loving and leaving to love again, and leave again.
 
@@ -1103,9 +1085,7 @@ Here's where we see the Don Juan syndrome, and where we can touch base with the 
 
 For the Addict, the world presents itself as tantalizing fragments of a lost whole. Caught in the foreground, he can't see the underlying background. Caught in the "myriads of forms," as the Hindus say, he can't find the Oneness that would bring him calm and stability. Living on the finite side of the prism, he can only experience light in its dazzling but fractured rainbow hues.
 
-This is another way of talking about what ancient religions called idolatry. The addicted Lover unconsciously invests the finite fragments of his experience with the power of the Unity, which he can never experience. This shows up, again, in the interesting phenomenon of
-
-137 pornography collections. Men under the fragmenting energy of the Addict will often amass huge collections of photographs of nude women and then arrange them in categories like "breasts." "legs." and so on. Then, they will lay the "breasts" out side-by-side and delight in comparing them. And they will do the same with "legs" and other bits and pieces of the female anatomy. They marvel at the beauty of the parts, but they can't experience a woman as a whole being physically or psychologically, and certainly not as a unity of body and soul, a complete person with whom they could have an intimate, human relationship.
+This is another way of talking about what ancient religions called idolatry. The addicted Lover unconsciously invests the finite fragments of his experience with the power of the Unity, which he can never experience. This shows up, again, in the interesting phenomenon of pornography collections. Men under the fragmenting energy of the Addict will often amass huge collections of photographs of nude women and then arrange them in categories like "breasts." "legs." and so on. Then, they will lay the "breasts" out side-by-side and delight in comparing them. And they will do the same with "legs" and other bits and pieces of the female anatomy. They marvel at the beauty of the parts, but they can't experience a woman as a whole being physically or psychologically, and certainly not as a unity of body and soul, a complete person with whom they could have an intimate, human relationship.
 
 There is an unconscious inflation in this idolatry, for the mortal man in this frame of mind is experiencing these images in the infinite sensuality of the God who made them in all their variety, and who delights in the fragments of his creation as well as in the whole. This man, captured by the Addicted Lover, is unconsciously identifying himself with God as Lover.
 
@@ -1135,15 +1115,7 @@ This disconnection can reach serious proportions known to psychology as "dissoci
 
 But we all know that when we're depressed that we just don't have the motivation to do the things we either want to do or have to do. This frequently happens to the elderly. Their physical problems, isolation, and lack of useful work plunge them into depression. The zest for life is gone. The Lover seems nowhere to be found. Pretty soon these older men stop fixing meals for themselves. They feel that there is nothing to live for. The Bible says that "without a vision, the people perish." It is specifically without the imaging and visioning of the Lover that people perish.
 
-But it isn't just the lack of a vision that signifies the oppressive power of the Impotent Lover in a man's life. It is also the absence of an erect and eager penis. This man's sex life has gone stale; he is sexually inactive. Such sexual inactivity may stem from any number of factors—boredom and lack of ecstasy with his mate, smoldering anger about his relationship, tension and stress on the job, money worries, or the sense of being emasculated by the feminine or by the other men in his life. In conjunction with the Impotent Lover, this man is either regressed into a presexual Boy or he is mainlining either the Warrior or the Magician,
-
-141
-
-Magician to help him back off from the ensnaring effect of his emotions, in order to reflect, to get a more objective perspective on things, to disconnect—enough at least to see the big picture and to experience the reality beneath the seeming.
-
-or a combination of the three. His sexual and sensual sensitivity has been overwhelmed by other concerns. As his sexual partner becomes more demanding, he withdraws even further into the passive pole of the Lover's Shadow. At this point, the opposite pole of the archetypal Shadow may "rescue" him by propelling him into the Addict's quest for the perfect satisfaction of his sexuality beyond the mundane world of his primary relationship.
-
-Tragically, the unrelenting attacks on our vitality and on our "shining" begin early in our lives. Many of us may have so repressed the Lover in us that it has become very hard for us to feel passionate about anything in our lives. The trouble with most of us is not that we feel too much passion, but that we don't feel our passion much at all. We don't feel our joy. We don't feel able to be alive and to live our lives the way we wanted to live them when we began. We may even think that feelings and, in particular, *our* feelings, are annoying encumbrances and inappropriate for a man. But let us not surrender our lives! Let us find the spontaneity and joy of life inside ourselves. Then not only will we live our lives more abundantly, but we will enable others to live, perhaps for the first time in *their* lives.
+But it isn't just the lack of a vision that signifies the oppressive power of the Impotent Lover in a man's life. It is also the absence of an erect and eager penis. This man's sex life has gone stale; he is sexually inactive. Such sexual inactivity may stem from any number of factors—boredom and lack of ecstasy with his mate, smoldering anger about his relationship, tension and stress on the job, money worries, or the sense of being emasculated by the feminine or by the other men in his life. In conjunction with the Impotent Lover, this man is either regressed into a presexual Boy or he is mainlining either the Warrior or the Magician, or a combination of the three. His sexual and sensual sensitivity has been overwhelmed by other concerns. As his sexual partner becomes more demanding, he withdraws even further into the passive pole of the Lover's Shadow. At this point, the opposite pole of the archetypal Shadow may "rescue" him by propelling him into the Addict's quest for the perfect satisfaction of his sexuality beyond the mundane world of his primary relationship.
 
 #### Accessing the Lover
 
@@ -1151,11 +1123,15 @@ If we are appropriately accessing the Lover, but keeping our Ego structures stro
 
 The Lover keeps the other masculine energies humane, loving, and related to each other and to the real life situation of human beings struggling in a difficult world. The King, the Warrior, and the Magician, as we've suggested, harmonize pretty well with each other. They do so because, without the Lover, they are all essentially detached from life. They need the Lover to energize them, to humanize them, and to give them their ultimate purpose—love. They need the Lover to keep them from becoming sadistic.
 
-The Lover needs them as well. The Lover without boundaries, in his chaos of feeling and sensuality, needs the King to define limits for him, to give him structure, to order his chaos so that it can be channeled creatively. Without limits, the Lover energy turns negative and destructive. The Lover needs the Warrior in order to be able to act decisively, in order to detach, with the clean cut of the sword, from the web of immobilizing sensuality. The Lover needs the Warrior to destroy the Golden Temple, which keeps him fixated. And the Lover needs the
+The Lover needs them as well. The Lover without boundaries, in his chaos of feeling and sensuality, needs the King to define limits for him, to give him structure, to order his chaos so that it can be channeled creatively. Without limits, the Lover energy turns negative and destructive. The Lover needs the Warrior in order to be able to act decisively, in order to detach, with the clean cut of the sword, from the web of immobilizing sensuality. The Lover needs the Warrior to destroy the Golden Temple, which keeps him fixated. And the Lover needs the Magician to help him back off from the ensnaring effect of his emotions, in order to reflect, to get a more objective perspective on things, to disconnect—enough at least to see the big picture and to experience the reality beneath the seeming.
 
-Conclusion:
+Tragically, the unrelenting attacks on our vitality and on our "shining" begin early in our lives. Many of us may have so repressed the Lover in us that it has become very hard for us to feel passionate about anything in our lives. The trouble with most of us is not that we feel too much passion, but that we don't feel our passion much at all. We don't feel our joy. We don't feel able to be alive and to live our lives the way we wanted to live them when we began. We may even think that feelings and, in particular, *our* feelings, are annoying encumbrances and inappropriate for a man. But let us not surrender our lives! Let us find the spontaneity and joy of life inside ourselves. Then not only will we live our lives more abundantly, but we will enable others to live, perhaps for the first time in *their* lives.
 
-Accessing the Archetypal Powers of the Mature Masculine
+---
+
+### *Conclusion:*
+
+#### *Accessing the Archetypal Powers of the Mature Masculine*
 
 When Lord of the Flies, William Golding's classic novel about English schoolboys marooned on a tropical island, was recently redone in cinematic form, critics of the new movie asked why the story had been remade. Even though this latest film version of Golding's story may not be the best cinema, the answer is that this work, in whatever form, speaks directly and powerfully about the human situation on this planet.
 
@@ -1217,9 +1193,7 @@ E: Who are you? [Pause] Who are you? [Pause] What do you want? [Long pause] Whoe
 - E: I won't let you get me fired.
 - T: Just try to stop me!
 
-After more mutual accusation and expressions of distrust, the man's
-
-Ego and this inner figure, which was the Trickster archetype wearing the man's own personal shadow identity, began serious conversation.
+After more mutual accusation and expressions of distrust, the man's Ego and this inner figure, which was the Trickster archetype wearing the man's own personal shadow identity, began serious conversation.
 
 - T: You put down your real feelings about things—all of your feelings. You're a wimp. I *am* your feelings, your *real* feelings. I want to be angry sometimes, and I want to be really glad! And you just wimp around, acting superior. Any superiority you have is in me. I'm the real you!
 - E: I want to be your friend. And . . . I need you to be mine. You are not me. I have my own point of view, and I need you to hear it. But I really will turn over a new leaf. At the same time, I can't let you just blurt things out at work. If I go hungry, so do you. We're in this together, you know.
@@ -1252,8 +1226,6 @@ Because the Hero, under the influence of the Lover, was able to transform his fe
 #### Invocation
 
 A second technique we call invocation. This time we access the masculine archetypes in their fullness as positive energy forms. This too may seem strange at first. But a moment's reflection will reveal to us that we do this kind of thing all the time. We all live our psychological lives unintentionally, for the most part, invoking images and thoughts that may or may not be helpful to us. Our minds are cluttered with sights, sounds, and words, many of which are unwanted. To see the truth of this, just close your eyes for a moment. Images will present themselves in the darkness, and thoughts, barely audible to the inner "ear," will crowd into your mind. If active imagination dialogue is a conscious, focused way of talking to yourself, invocation is a conscious, focused way of calling up the images you want to see. Imaging deeply affects our moods, our attitudes, the way we look at things, and what we do.
-
-153
 
 It is therefore important what thoughts and images we are invoking in our lives. Here's how to do focused imaging, or invocation:
 
