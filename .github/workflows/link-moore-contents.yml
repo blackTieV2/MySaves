@@ -24,7 +24,6 @@ jobs:
 
           path = Path('Moore, R (1990) King Warrior Magician Lover/Moore,R(1990)_King_Warrior_Magician_Lover.md')
           text = path.read_text(encoding='utf-8')
-          original = text
 
           def normalise_heading(line: str) -> str:
               s = re.sub(r'^\s*#{1,6}\s*', '', line.strip())
@@ -33,51 +32,43 @@ jobs:
               s = re.sub(r'[^a-zA-Z0-9]+', ' ', s).strip().lower()
               return re.sub(r'\s+', ' ', s)
 
-          anchors = {
-              'acknowledgments': lambda h: h == 'acknowledgments',
-              'introduction': lambda h: h == 'introduction',
-              'part-i': lambda h: h in {'part 1', 'part i'} or h.startswith('part i from boy psychology'),
-              'crisis-in-masculine-ritual-process': lambda h: h.startswith('1 the crisis in masculine ritual process'),
-              'masculine-potentials': lambda h: h.startswith('2 masculine potentials'),
-              'boy-psychology': lambda h: h.startswith('3 boy psychology'),
-              'man-psychology': lambda h: h.startswith('4 man psychology'),
-              'part-ii': lambda h: h in {'part 2', 'part ii'} or h.startswith('part ii decoding the male psyche'),
-              'the-four-archetypes-of-the-mature-masculine': lambda h: h == 'the four archetypes of the mature masculine',
-              'the-king': lambda h: h.startswith('5 the king'),
-              'the-warrior': lambda h: h.startswith('6 the warrior'),
-              'the-magician': lambda h: h.startswith('7 the magician'),
-              'the-lover': lambda h: h.startswith('8 the lover'),
-              'conclusion-accessing-the-archetypal-powers': lambda h: h.startswith('conclusion accessing the archetypal') or h.startswith('accessing the archetypal powers of the mature masculine'),
-              'selected-readings': lambda h: h == 'selected readings',
-          }
+          anchors = [
+              ('acknowledgments', lambda h: h == 'acknowledgments'),
+              ('introduction', lambda h: h == 'introduction'),
+              ('part-i', lambda h: h in {'part 1', 'part i'} or h.startswith('part i from boy psychology')),
+              ('crisis-in-masculine-ritual-process', lambda h: h.startswith('1 the crisis in masculine ritual process')),
+              ('masculine-potentials', lambda h: h.startswith('2 masculine potentials')),
+              ('boy-psychology', lambda h: h.startswith('3 boy psychology')),
+              ('man-psychology', lambda h: h.startswith('4 man psychology')),
+              ('part-ii', lambda h: h in {'part 2', 'part ii'} or h.startswith('part ii decoding the male psyche')),
+              ('the-king', lambda h: h.startswith('5 the king')),
+              ('the-warrior', lambda h: h.startswith('6 the warrior')),
+              ('the-magician', lambda h: h.startswith('7 the magician')),
+              ('the-lover', lambda h: h.startswith('8 the lover')),
+              ('conclusion-accessing-the-archetypal-powers', lambda h: 'conclusion' in h and 'accessing the archetypal' in h or h.startswith('accessing the archetypal powers of the mature masculine')),
+              ('selected-readings', lambda h: h == 'selected readings'),
+          ]
 
-          lines = text.splitlines()
-          found = set()
+          existing = set(re.findall(r'<a id="([^"]+)"></a>', text))
+          found = set(existing)
           output = []
-          for line in lines:
+          for line in text.splitlines():
               h = normalise_heading(line) if re.match(r'^\s*#{1,6}\s+', line) else ''
-              matched = None
-              for anchor, predicate in anchors.items():
+              for anchor, predicate in anchors:
                   if anchor not in found and h and predicate(h):
-                      matched = anchor
+                      output.extend([f'<a id="{anchor}"></a>', ''])
+                      found.add(anchor)
                       break
-              if matched:
-                  marker = f'<a id="{matched}"></a>'
-                  if not output or output[-1].strip() != marker:
-                      output.extend([marker, ''])
-                  found.add(matched)
               output.append(line)
+          text = '\n'.join(output) + '\n'
 
-          text = '\n'.join(output) + ('\n' if original.endswith('\n') else '')
-
-          # Preface has no explicit heading in the converted source. Anchor the first
-          # prose paragraph immediately after the Contents table.
           if '<a id="preface"></a>' not in text:
-              preface_phrase = 'The archetypes of King, Warrior, Magician, and Lover have been increasingly in focus'
-              pos = text.find(preface_phrase)
+              phrase = 'The archetypes of King, Warrior, Magician, and Lover have been increasingly in focus'
+              pos = text.find(phrase)
               if pos == -1:
-                  raise SystemExit('Could not locate the Preface opening paragraph.')
+                  raise SystemExit('Could not locate Preface opening paragraph.')
               text = text[:pos] + '<a id="preface"></a>\n\n' + text[pos:]
+              found.add('preface')
 
           toc = '''# Contents
 
@@ -100,26 +91,13 @@ jobs:
 | [Selected Readings](#selected-readings) | 157 |
 '''
 
-          toc_heading = re.search(r'(?m)^# Contents\s*$', text)
-          if not toc_heading:
-              raise SystemExit('Could not find the Contents heading.')
-
-          start = toc_heading.start()
-          after_heading = toc_heading.end()
-          tail = text[after_heading:]
-          table_match = re.match(r'\s*\n(?:\|.*\n)+', tail)
-          if not table_match:
-              raise SystemExit('Could not identify the existing Contents table.')
-          end = after_heading + table_match.end()
-          text = text[:start] + toc + '\n' + text[end:].lstrip('\n')
-
-          required = set(anchors)
-          missing = required - found
-          if missing:
-              raise SystemExit('Could not match headings for anchors: ' + ', '.join(sorted(missing)))
+          match = re.search(r'(?ms)^# Contents\s*\n\s*(?:\|.*\n)+', text)
+          if not match:
+              raise SystemExit('Could not identify existing Contents table.')
+          text = text[:match.start()] + toc + '\n' + text[match.end():].lstrip('\n')
 
           path.write_text(text, encoding='utf-8', newline='\n')
-          print('Linked Contents and added explicit section anchors.')
+          print('Anchors found:', ', '.join(sorted(found)))
           PY
 
       - name: Commit linked contents
