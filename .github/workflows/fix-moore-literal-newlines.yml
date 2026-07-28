@@ -1,4 +1,4 @@
-name: Fix Moore literal newline artifacts
+name: Fix Moore conversion breaks
 
 on:
   push:
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Replace literal newline markers in combined Markdown
+      - name: Repair conversion newline and page-break artifacts
         shell: bash
         run: |
           python <<'PY'
@@ -26,21 +26,46 @@ jobs:
           text = path.read_text(encoding='utf-8')
           original = text
 
-          # Replace literal backslash-n markers produced by the converter.
-          text = text.replace('\\r\\n', '\n')
-          text = text.replace('\\n', '\n')
-
-          # Replace standalone /n markers, but do not touch ordinary slash-containing words.
+          # Literal newline markers produced by conversion.
+          text = text.replace('\\r\\n', '\n').replace('\\n', '\n')
           text = re.sub(r'(?<![A-Za-z0-9])/n(?![A-Za-z0-9])', '\n', text)
-
-          # Normalise line endings only; preserve all deliberate Markdown spacing and HTML.
           text = text.replace('\r\n', '\n').replace('\r', '\n')
 
-          if text == original:
-              print('No literal newline markers found.')
-          else:
+          # Join false paragraph breaks introduced at page boundaries.
+          # Only join where the next paragraph begins in lowercase and the previous
+          # paragraph does not look complete or structural.
+          structural = re.compile(r'^(?:#{1,6}\s|[-*+]\s|\d+[.)]\s|>|<|!\[|\|)')
+          lines = text.split('\n')
+          out = []
+          i = 0
+          joined = 0
+
+          while i < len(lines):
+              if i + 2 < len(lines) and lines[i].strip() and not lines[i+1].strip() and lines[i+2].strip():
+                  left = lines[i].rstrip()
+                  right = lines[i+2].lstrip()
+
+                  left_complete = bool(re.search(r'[.!?…””\)\]]$', left))
+                  safe_right = bool(re.match(r'^[a-z]', right)) and not structural.match(right)
+                  safe_left = not structural.match(left.lstrip()) and not left.endswith(('>', '|'))
+
+                  if safe_left and safe_right and not left_complete:
+                      if left.endswith('-'):
+                          out.append(left[:-1] + right)
+                      else:
+                          out.append(left + ' ' + right)
+                      joined += 1
+                      i += 3
+                      continue
+
+              out.append(lines[i])
+              i += 1
+
+          text = '\n'.join(out)
+
+          if text != original:
               path.write_text(text, encoding='utf-8', newline='\n')
-              print(f'Removed {original.count(chr(92)+"n")} literal \\n marker(s).')
+          print(f'Repaired {joined} false page-break paragraph split(s).')
           PY
 
       - name: Commit cleaned Markdown
@@ -53,5 +78,5 @@ jobs:
             echo 'No changes to commit.'
             exit 0
           fi
-          git commit -m 'Fix literal newline artifacts in combined Moore Markdown'
+          git commit -m 'Repair page-break artifacts in combined Moore Markdown'
           git push
