@@ -1,0 +1,66 @@
+name: Combine Moore Markdown
+
+on:
+  push:
+    paths:
+      - '.github/workflows/combine-moore-markdown.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  combine:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Combine King Markdown files in page order
+        shell: bash
+        run: |
+          python <<'PY'
+          from pathlib import Path
+
+          folder = Path('Moore, R (1990) King Warrior Magician Lover')
+          sources = [
+              folder / 'King_3-10.md',
+              folder / 'King_11-20.md',
+              folder / 'King_21-30.md',
+              folder / 'King_31-50.md',
+              folder / 'King_51-60.md',
+              folder / 'King_61-91.md',
+          ]
+          output = folder / 'Moore,R(1990)_King_Warrior_Magician_Lover.md'
+
+          missing = [str(path) for path in sources if not path.exists()]
+          if missing:
+              raise SystemExit('Missing source files: ' + ', '.join(missing))
+
+          parts = []
+          for path in sources:
+              text = path.read_text(encoding='utf-8').strip('\ufeff\n\r ')
+              parts.append(text)
+
+          # Preserve every source file exactly apart from normalising the joins
+          # to two blank lines so Markdown blocks cannot run together.
+          combined = '\n\n\n'.join(parts) + '\n'
+          output.write_text(combined, encoding='utf-8', newline='\n')
+
+          print(f'Created {output}')
+          print(f'Sources: {len(sources)}')
+          print(f'Characters: {len(combined):,}')
+          PY
+
+      - name: Commit combined book
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- 'Moore, R (1990) King Warrior Magician Lover/Moore,R(1990)_King_Warrior_Magician_Lover.md'
+          if git diff --cached --quiet; then
+            echo 'No combined-file changes detected.'
+            exit 0
+          fi
+          git commit -m 'Combine Moore King Markdown files'
+          git push
