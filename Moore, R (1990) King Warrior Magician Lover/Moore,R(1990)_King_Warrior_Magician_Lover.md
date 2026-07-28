@@ -516,7 +516,16 @@ What this function of the King energy does, through a mortal king, is embody for
 
 In the Oriental Institute Museum in Chicago there is a full-size reproduction of the great pillar of laws of the ancient Babylonian king Hammurabi (1728–1686 B.C.E.). The "pillar" is actually in the shape of a giant forefinger pointing upward, saying, in effect, "Listen! This is it! This is how things are going to be!" And where the fingernail is on this giant finger is a picture of Hammurabi standing in contemplation, scratching his long beard, listening to the great Father god Shamash—the sun, king of the gods—the supreme symbol of the light of masculine consciousness. Shamash is giving Hammurabi the laws that are inscribed below and all around the sides of the finger. The finger itself is what the ancients called, when referring to the will of God, "the finger of God." The picture of Hammurabi receiving the laws is expressing the primordial or archetypal incident—ever recurring—of the King energy giving his human servant, the mortal king, the key to peace, calm, and order. This same timeless event is depicted in the biblical story of Moses receiving the Torah from Yahweh on the primordial mountain, Sinai.
 
-![Shah Nameh (From a seventeenth-century Indian illuminated manuscript. Courtesy of Musée Condé, Chantilly, France. Photo: Giraudon/Art Resource.)](_page_38_Picture_8.jpeg)
+<figure>
+  <img src="_page_38_Picture_8.jpeg"
+       alt="Illustration from the Shah Nameh">
+
+  <figcaption>
+    <em><strong>Shah Nameh</strong>. From a seventeenth-century Indian illuminated manuscript. Courtesy of the Musée Condé, Chantilly, France. Photograph: Giraudon/Art Resource.</em>
+  </figcaption>
+</figure>
+
+<p>&nbsp;</p>
 
 This mysterious order, expressed in the kingdom and even in its palaces and temples (often laid out as representations of the cosmos in miniature) and in human laws and in all human societal order customs, traditions, and spoken and unspoken taboos—is the manifestation of the ordering thoughts of the Creator God. In Ancient Egyptian mythology, this was alternately thought of as the god Ptah or as a goddess called Ma'at, "Right Order." We see this idea carried forward in early Hebrew thought in the figure of Wisdom in the biblical book of Proverbs, and even in the Greek and later Christian idea of Christ as the Logos, the ordering, generative, and creative Word the Gospel of John talks about. In Hinduism, this archetypal "right order" is called Dharma. In China, it is called the Tao, the "Way."
 
