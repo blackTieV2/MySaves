@@ -1334,7 +1334,7 @@ Goodall, Jane. *The Chimpanzees of Gombe*. Cambridge, MA: Harvard Univ. Press, 1
 
 Turner, Victor. The Ritual Process. Ithaca, NY: Cornell Univ. Press, 1969.
 
-#### Comparative Mythology and Religion
+## Comparative Mythology and Religion
 
 Eliade, Mircea. Cosmos and History. New York: Harper & Row, 1959.
 
@@ -1344,7 +1344,7 @@ Eliade, Mircea. Cosmos and History. New York: Harper & Row, 1959.
 
 Frazer, James G. The Golden Bough. New York: Macmillan, 1963.
 
-#### Jung
+## Jung
 
 Campbell, Joseph, ed. The Portable Jung. New York: Viking, 1971.
 
@@ -1354,7 +1354,7 @@ Jacobi, Jolande. Complex, Archetype, Symbol. Princeton, NJ: Princeton Univ. Pres
 
 Stevens, Anthony. Archetypes: A Natural History of the Self. New York: William Morrow, 1982.
 
-## **Boy Psychology**
+## Boy Psychology
 
 Campbell, Joseph. *The Hero with a Thousand Faces.* Princeton, NJ: Princeton Univ. Press, 1949.
 
@@ -1362,13 +1362,13 @@ Golding, William. The Lord of the Flies. New York: Putnam, 1962.
 
 Miller, Alice. For Your Own Good: Hidden Cruelty in Child-Rearing and the Roots of Violence. Trans. by Hildegarde and Hunter Hannum. New York: Farrar, Straus, Giroux, 1983.
 
-#### Man Psychology
+## Man Psychology
 
 Bly, Robert. *Iron John: A Book About Men.* Reading, MA: Addison-Wesley, 1990. Bolen, Jean Shinoda. *Gods in Everyman.* San Francisco: Harper & Row, 1989. Browning, Don S. *Generative Man: Psychoanalytic Perspectives.* Philadelphia: Westminster Press, 1973.
 
 Winnicott, D. W. Home Is Where We Start From. New York: Norton, 1986.
 
-#### KING
+#### *KING*
 
 Frankfort, Henri. *Kingship and the Gods*. Chicago: Univ. of Chicago Press, 1948.
 
@@ -1376,27 +1376,30 @@ Perry, John Weir. *Lord of the Four Quarters*. New York: Macmillan, 1966.
 
 ———. *Roots of Renewal in Myth and Madness: The Meaning of Psychotic Episodes*. San Francisco: Jossey-Bass, 1976.
 
-#### WARRIOR
+#### *WARRIOR*
 
 Rogers, David J. Fighting to Win. Garden City, NY: Doubleday, 1984.
 
 Stevens, Anthony. The Roots of War: A Jungian Perspective. New York: Paragon House, 1984.
 
-#### MAGICIAN
+#### *MAGICIAN*
 
 Butler, E. M. *The Myth of the Magus*. Cambridge, MA: Cambridge Univ. Press, 1948.
 Neihardt, John. *Black Elk Speaks*. Lincoln: Univ. of Nebraska Press, 1968.
 Nicolson, Shirley, ed. *Shamanism*. Wheaton, IL: The Theosophical Publishing House, 1987.
 
-#### LOVER
+#### *LOVER*
 
 Neumann, Erich. Art and the Creative Unconscious. Princeton, NJ: Princeton Univ. Press, 1959.
 
 Spink, Walter M. The Axis of Eros. New York: Schocken Books, 1973.
 
-# King Warrior Magician Lover
+---
 
-igian introduction to the psychological four-
+# Back Cover
+## *King Warrior Magician Lover*
+
+A popular Jungian introduction to the psychological four 
 
 "In the recent Bill Movers interview with poet Robert Bly... a young man asked the question. Where are the initiated men of power today?' We have written this book in order to answer this question. which is on the minds of both men and women. In the late twentieth century, we face a crisis in masculine identity of vast proportions. Increasingly, observers of the contemporary scene—sociologists. anthropologists, and depth psychologists-are discovering the devastating dimensions of this phenomenon, which affects each of us personally as much as it affects our society as a whole"
 
