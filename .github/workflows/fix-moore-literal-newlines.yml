@@ -1,0 +1,57 @@
+name: Fix Moore literal newline artifacts
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fix-moore-literal-newlines.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Replace literal newline markers in combined Markdown
+        shell: bash
+        run: |
+          python <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path('Moore, R (1990) King Warrior Magician Lover/Moore,R(1990)_King_Warrior_Magician_Lover.md')
+          text = path.read_text(encoding='utf-8')
+          original = text
+
+          # Replace literal backslash-n markers produced by the converter.
+          text = text.replace('\\r\\n', '\n')
+          text = text.replace('\\n', '\n')
+
+          # Replace standalone /n markers, but do not touch ordinary slash-containing words.
+          text = re.sub(r'(?<![A-Za-z0-9])/n(?![A-Za-z0-9])', '\n', text)
+
+          # Normalise line endings only; preserve all deliberate Markdown spacing and HTML.
+          text = text.replace('\r\n', '\n').replace('\r', '\n')
+
+          if text == original:
+              print('No literal newline markers found.')
+          else:
+              path.write_text(text, encoding='utf-8', newline='\n')
+              print(f'Removed {original.count(chr(92)+"n")} literal \\n marker(s).')
+          PY
+
+      - name: Commit cleaned Markdown
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- 'Moore, R (1990) King Warrior Magician Lover/Moore,R(1990)_King_Warrior_Magician_Lover.md'
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Fix literal newline artifacts in combined Moore Markdown'
+          git push
