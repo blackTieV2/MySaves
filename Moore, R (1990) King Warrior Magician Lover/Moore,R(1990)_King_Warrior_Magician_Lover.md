@@ -256,7 +256,7 @@ The followers of Carl Jung, however, view this Divine Child differently. They do
 
 These differing schools of psychoanalysis, we believe, are each right. Each picks up on the two different aspects of this energy—the one integrated and unified, and the other the shadow side. At the top of the triangular archetypal structure, we experience the Divine Child, who renews us and keeps us "young at heart." At the base of the triangle, we experience what we call the High Chair Tyrant and the Weakling Prince.
 
-# The High Chair Tyrant
+#### *The High Chair Tyrant*
 
 The High Chair Tyrant is epitomized by the image of Little Lord Fauntleroy sitting in his high chair, banging his spoon on the tray, and screaming for his mother to feed him, kiss him, and attend him. Like a dark version of the Christ child, he is the center of the universe; others exist to meet his all-powerful needs and desires. But when the food comes, it often does not meet his specifications: it's not good enough; it's not the right kind; it's too hot or too cold, too sweet or too sour. So he spits it on the floor or throws it across the room. If he becomes sufficiently self-righteous, no food, no matter how hungry he is, will be adequate. And if his mother picks him up after "failing" him so completely, he will scream and twist and reject her advances, because they were not offered at exactly the right moment. The High Chair Tyrant hurts himself with his grandiosity—the limitlessness of his demands—because he rejects the very things that he needs for life: food and love.
 
@@ -272,13 +272,13 @@ When the High Chair Tyrant cannot be brought under control, he will manifest in 
 
 It has been said that the Divine Child wants just to be and to have all things flow toward him. He does not want to do. The artist wants to be admired without having to lift a finger. The CEO wants to sit in his office, enjoying his leather chairs, his cigars, and his attractive secretaries, drawing his high salary, and enjoying his perks. But he does not want to do anything for the company. He imagines himself invulnerable and all-important. He often demeans and degrades others who are trying to accomplish something. He is in his high chair, and he is setting himself up to get the ax.
 
-### The Weakling Prince
+#### *The Weakling Prince*
 
 The other side of the bipolar shadow of the Divine Child is the Weakling Prince. The boy (and later, the man) who is possessed by the Weakling Prince appears to have very little personality, no enthusiasm for life, and very little initiative. This is the boy who needs to be coddled, who dictates to those around him by his silent or his whining and complaining helplessness. He needs to be carried around on a pillow. Everything is too much for him. He rarely joins in children's games; he has few friends; he doesn't do well in school; he is frequently hypochondriacal; his slightest wish is his parents' command; the entire family system revolves around his comfort. He reveals the dishonesty of his helplessness, however, in his daggerlike verbal assaults on his siblings, his biting sarcasm directed against them, and his patent manipulation of their feelings. Because he has convinced his parents that he is a helpless victim of life and that others are picking on him, when a controversy arises between himself and a sibling, his parents tend to punish the sibling and excuse him.
 
 The Weakling Prince is the polar opposite of the High Chair Tyrant, and though he rarely throws the tantrums of the Tyrant, he nonetheless occupies a less easily detectable throne. As is the case with all bipolar disorders, the Ego possessed by one pole will, from time to time, gradually slide or suddenly jump over to the other pole. Using the imagery of bipolar magnetism to describe this phenomenon, we can say that the polarity of the magnet reverses depending on the direction of an electrical current passing through it. When such a reversal occurs in the boy caught in the bipolar shadow of the Divine Child, he will switch from tyrannical outbursts to depressed passivity, or from apparent weakness to rageful displays.
 
-# Accessing the Divine Child
+#### *Accessing the Divine Child*
 
 In order to access the Divine Child appropriately, we need to acknowledge him, but not identify with him. We need to love and admire the creativity and beauty of this primal aspect of the masculine Self, because if we don't have this connection with him, we are never going to see the possibilities in life. We are never going to seize opportunities for newness and freshness.
 
@@ -292,7 +292,7 @@ Roman birthday parties were held not so much to honor an individual as to honor 
 
 We need to ask ourselves two questions. The first one is not whether we are manifesting the High Chair Tyrant or the Weakling Prince but how—because we all are manifesting both to some extent and in some form. At the very least, we all do this when we regress into our Child when we are fatigued or extremely frightened. The second question is not whether the creative Child exists in us but how we are honoring him or not honoring him. If we're not feeling him in our personal lives and in our work, then we have to ask ourselves how we are blocking him.
 
-#### The Precocious Child
+### The Precocious Child
 
 There is a wonderful statuette of the ancient Egyptian magician and vizier, Imhotep, as a boy. Imhotep is sitting on a little throne reading a scroll. His face is gentle and thoughtful, but alive with an inner glow. His eyes look down at the written word that he holds reverently in his hands. His posture shows grace, poise, concentration, and self-confidence. Not a true portrait, this statuette is really an image of the archetype of the Precocious Child.
 
@@ -300,7 +300,7 @@ The Precocious Child manifests in a boy when he is eager to learn, when his mind
 
 The Precocious Child is the origin of our curiosity and our adventurous impulses. He urges us to be explorers and pioneers of the unknown, the strange and mysterious. He causes us to wonder at the world around us and the world inside us. A boy for whom the Precocious Child is a powerful influence wants to know what makes other people tick as well as what makes himself tick. He wants to know why people act the way they do, why he has the feelings he has. He tends to be introverted and reflective, and he is able to see the hidden connections in things. He can achieve cognitive detachment from the people around him long before his peers are able to accomplish this. Though introverted and reflective, he is also extroverted and eagerly reaches out to others to share his insights and his talents with them. He often experiences a powerful urge to help others with his knowledge, and his friends often come to him for a shoulder to cry on as well as for help with their schoolwork. The Precocious Child in a man keeps his sense of wonder and curiosity alive, stimulates his intellect, and moves him in the direction of the mature magician.
 
-#### The Know-It-All Trickster
+#### *The Know-It-All Trickster*
 
 The bipolar Shadow of the Precocious Child, like all the shadow forms of the archetypes of the immature masculine, can be carried over into adulthood, where it causes would-be men to manifest inappropriate infantilism in their thoughts, feelings, and behaviors. The Know-It-All Trickster is, as the name implies, that immature masculine energy that plays tricks, of a more or less serious nature, in one's own life and on others. He is expert at creating appearances, and then "selling" us on those appearances. He seduces people into believing him, and then he pulls the rug out from under them. He gets us to believe in him, to trust him, and then he betrays us and laughs at our misery. He leads us to a paradise in the jungle, only to serve us a feast of cyanide. He's always looking for a sucker. He is the practical joker, adept at making fools of us. He is a manipulator.
 
@@ -342,13 +342,13 @@ His energy comes from envy. The less a man is in touch with his true talents and
 
 The Trickster is the archetype that rushes in to fill the vacuum in the immature man or boy left by the boy's denial of and lack of connection with the Divine Child. The Trickster gets activated developmentally within us when we have been depreciated and attacked by our parents (or older siblings), when we have been emotionally abused. If we don't feel our real specialness, we will come under the power of the Trickster, the "Know-It-All," and deflate others' sense of their specialness, even when such deflation is not called for. The Know-It-All Trickster has no heroes, because to have heroes is to admire others. We can only admire others if we have a sense of our own worthiness, and a developing sense of security about our own creative energies.
 
-# The Dummy
+#### *The Dummy*
 
 The boy (or man) who is under the power of the other pole of the dysfunctional Shadow of the Precocious Child, the naive Dummy, like the Weakling Prince, lacks personality, vigor, and creativity. He seems unresponsive and dull. He can't seem to learn his multiplication tables, count change, or tell time. He is frequently labeled a slow learner. In addition, he lacks a sense of humor and frequently seems to miss the point of jokes. He may appear to be physically inept as well. His coordination is off, so he often becomes the butt of ridicule and contempt when he fumbles the ball on the playing field or strikes out in the last of the ninth. This boy may also appear to be naive. He is, or seems to be, the last kid on the block to learn about the "birds and the bees."
 
 The Dummy's ineptitude, however, is frequently less than honest. He may grasp far more than he shows, and his duncelike behavior may mask a hidden grandiosity that feels itself too important (as well as too vulnerable) to come into the world. Thus, intimately intertwined with a secret Know-It-All, the Dummy is also a Trickster.
 
-# The Oedipal Child
+### The Oedipal Child
 
 All the immature masculine energies are overly tied, one way or another, to Mother, and are deficient in their experience of the nurturing and mature masculine. Although the boy for whom the Oedipal Child is a powerful archetypal influence may be deficient in his experience of the nurturing masculine, he is able to access the positive qualities of the archetype. He is passionate and has a sense of wonder and a deep appreciation for connectedness with his inner depths, with others, and with all things. He is warm, related, and affectionate. He also expresses, through his experience of connectedness to Mother (the primal relationship for almost all of us), the origins of what we can call spirituality. His sense of the mystic oneness and mutual communion of all things comes out of his deep yearning for the infinitely nurturing, infinitely good, infinitely beautiful Mother.
 
@@ -356,7 +356,7 @@ This Mother is not his real, mortal mother. *She* is bound to disappoint him muc
 
 A young man who once came into analysis in part because he was trying to work through his mother issues reported a remarkable insight that his own unconscious handed him. About halfway through his analysis, while visiting his mother, he and she got into one of their frequent quarrels. He could not get her to see his point. And he blurted out in disgust, "God, All-Mother, Mighty!" It was a Freudian slip, as we say. He had meant to say, "God Almighty, Mother!" He and his mother were stopped cold in their argument. Both were embarrassed and laughed nervously, because both realized the significance of his slip of the tongue. From that moment on, he began to direct his spiritual sense of the All-Mother, Mighty, toward the archetypal Great Mother, who, he realized with an inner conviction, was the Mother of his own mortal mother. He began to stop experiencing his mother as the Great Mother and began to be able to relieve her, and all other women, from carrying so heavy a burden as God-likeness for him. Not only did his relationships with his girlfriend and his mother improve, but his spirituality began to deepen significantly. He began to turn his sense of deep relatedness into spiritual gold.
 
-# The Mama's Boy
+#### *The Mama's Boy*
 
 The Oedipal Child's Shadow consists of the Mama's Boy and the Dreamer. The Mama's Boy is, as we all know, "tied to Mama's apron strings." He causes a boy to fantasize about marrying his mother, about taking her away from his father. If there is no father, or a weak father, this so-called Oedipal urge comes on all the stronger, and this crippling side of the Oedipal Child's bipolar Shadow may possess him.
 
@@ -374,19 +374,19 @@ In addition, the boy under the power of the Mama's Boy is what is called autoero
 
 Caught up in masturbation and the compulsive use of pornography, the Mama's Boy, like all immature energies, wants just to be. He does not want to do what it takes to actually have union with a mortal woman and to deal with all the complex feelings involved in an intimate relationship. He does not want to take responsibility.
 
-### The Dreamer
+#### *The Dreamer*
 
 The other pole of the dysfunctional Shadow of the Oedipal Child is the Dreamer. The Dreamer takes the spiritual impulses of the Oedipal Child to an extreme. Whereas the boy possessed by the Mama's Boy also shows signs of passivity, he at least actively seeks "Mother." The Dreamer, however, causes a boy to feel isolated and cut off from all human relationships. For the boy who is under the spell of the Dreamer, relationships are with intangible things and with the world of the imagination within him. As a consequence, while other children are playing, he may sit on a rock, dreaming his dreams. He accomplishes little and appears withdrawn and depressed. Often his dreams tend to be melancholy, on the one hand, or highly idyllic and ethereal, on the other.
 
 The boy possessed by the Dreamer, like a boy possessed by some of the other shadow poles, is less than honest, though his dishonesty is usually unconscious. His isolated, ethereal behavior may mask the hidden, and opposite, pole of the Oedipal Child's Shadow, the Mama's Boy. What this boy really shows, in a roundabout way, is his pique at failing to achieve possession of the Mother. His grandiosity in seeking to possess the Mother lies hidden by the Dreamer's depression.
 
-#### The Hero
+### The Hero
 
 There is much confusion about the archetype of the Hero. It is generally assumed that the heroic approach to life, or to a task, is the noblest, but this is only partly true. The Hero is, in fact, only an advanced form of Boy psychology—the most advanced form, the peak, actually, of the masculine energies of the boy, the archetype that characterizes the best in the adolescent stage of development. Yet it is immature, and when it is carried over into adulthood as the governing archetype, it blocks men from full maturity.
 
 If we think about the Hero as the Grandstander, or the Bully, this negative aspect becomes clearer.
 
-# The Grandstander Bully
+#### *The Grandstander Bully*
 
 The boy (or man) under the power of the Bully intends to impress others. His strategies are designed to proclaim his superiority and his right to dominate those around him. He claims center stage as his birthright. If ever his claims to special status are challenged, watch the ensuing rageful displays! He will assault those who question what they "smell" as his inflation with vicious verbal and often physical abuse. These attacks against others are aimed at staving off recognition of his underlying cowardice and his deep insecurity. The man still under the influence of this negative aspect of the Hero is not a team player. He is a loner. He's a hot-shot junior executive, salesman, revolutionary, stock market manipulator. He's the soldier who takes unnecessary risks in combat and, if he's in a position of leadership, requires the same of his men. Many a story has come out of Vietnam, for instance, about the "heroic" young officers, bucking for promotion, who often required their men to risk their lives in brave gestures. Some of these officers were "fragged" (i.e., killed) for their inflated heroic attitudes.
 
@@ -406,12 +406,9 @@ The Hero's downfall is that he doesn't know and is unable to acknowledge his own
 
 In this connection, we might think for a moment about the heroic nature of our Western culture. Its main business seems to be, as is often said, the "conquest" of Nature, its use and manipulation. Pollution and environmental catastrophe are the increasingly obvious penalties for such a brash and immature project. The field of medicine operates on the usually unspoken assumption that disease, and eventually death itself, can be eliminated. Our modern worldview has serious difficulty facing human limitations. When we do not face our true limitations, we are inflated, and sooner or later our inflation will be called to account.
 
-### The Coward
+#### *The Coward*
 
-The boy possessed by the Coward, the other pole of the Hero's bipolar Shadow, shows an extreme reluctance to stand up for himself in physi-
-
-
-cal confrontations. He will usually run away from a fight, perhaps excusing himself by claiming that it is more "manly" to walk away. But he will feel wretched in spite of his excuses. It is not only physical fights he will avoid, however. He will tend to allow himself to be bullied emotionally and intellectually as well. When someone else is demanding or forceful with him, the boy under the power of the Coward—and unable to feel heroic about himself—will cave in. He will easily acquiesce to pressure from others; he will feel invaded and run-over, like a doormat. When he has had enough of this, however, the hidden grandiosity of the Grandstander Bully within him will erupt and launch a violent verbal and/or physical assault upon his "enemy," an assault for which the other is totally unprepared.
+The boy possessed by the Coward, the other pole of the Hero's bipolar Shadow, shows an extreme reluctance to stand up for himself in physical confrontations. He will usually run away from a fight, perhaps excusing himself by claiming that it is more "manly" to walk away. But he will feel wretched in spite of his excuses. It is not only physical fights he will avoid, however. He will tend to allow himself to be bullied emotionally and intellectually as well. When someone else is demanding or forceful with him, the boy under the power of the Coward—and unable to feel heroic about himself—will cave in. He will easily acquiesce to pressure from others; he will feel invaded and run-over, like a doormat. When he has had enough of this, however, the hidden grandiosity of the Grandstander Bully within him will erupt and launch a violent verbal and/or physical assault upon his "enemy," an assault for which the other is totally unprepared.
 
 But having described the negative, or shadow, aspects of the Grand-stander/Coward, we nonetheless have to ask ourselves why the Hero is present in our psyches at all. Why is this a part of our personal developmental history as men? What is the evolutionary adaptation that it serves?
 
@@ -456,6 +453,14 @@ Ours is a psychological age rather than an institutional one. What used to be do
 Our Western civilization pushes us to strike out on our own, to become, as Jung said, "individuated" from each other. That which used to be more or less unconsciously shared by everyone—like the process of developing a mature masculine identity—we now must connect with consciously and individually. It is to this task that we now turn.
 
 Decoding the Male Psyche— The Four Archetypes of the Mature Masculine
+
+---
+
+# *PART II*
+
+## *Decoding the Male Psyche - The Four Archetypes of the Mature Masculine*
+
+---
 
 ## 5. The KING
 
@@ -509,13 +514,9 @@ What is really interesting for us about this view of the ordering function of th
 
 What this function of the King energy does, through a mortal king, is embody for the people of the realm this ordering principle of the Divine World. The human king does this by codifying laws. He makes laws, or more accurately, he receives them from the King energy itself and then passes them on to his nation.
 
-In the Oriental Institute Museum in Chicago there is a full-size reproduction of the great pillar of laws of the ancient Babylonian king Hammurabi (1728–1686 B.C.E.). The "pillar" is actually in the shape of a giant forefinger pointing upward, saying, in effect, "Listen! This is it! This is how things are going to be!" And where the fingernail is on this giant finger is a picture of Hammurabi standing in contemplation, scratching his long beard, listening to the great Father god Shamash—the sun, king of the gods—the supreme symbol of the light of masculine consciousness. Shamash is giving Hammurabi the laws that are inscribed below and all around the sides of the finger. The finger itself is what the ancients called, when referring to the will of God, "the finger of God." The picture of Hammurabi receiving the laws is expressing the primordial or archetypal incident—ever recurring—of the King energy
+In the Oriental Institute Museum in Chicago there is a full-size reproduction of the great pillar of laws of the ancient Babylonian king Hammurabi (1728–1686 B.C.E.). The "pillar" is actually in the shape of a giant forefinger pointing upward, saying, in effect, "Listen! This is it! This is how things are going to be!" And where the fingernail is on this giant finger is a picture of Hammurabi standing in contemplation, scratching his long beard, listening to the great Father god Shamash—the sun, king of the gods—the supreme symbol of the light of masculine consciousness. Shamash is giving Hammurabi the laws that are inscribed below and all around the sides of the finger. The finger itself is what the ancients called, when referring to the will of God, "the finger of God." The picture of Hammurabi receiving the laws is expressing the primordial or archetypal incident—ever recurring—of the King energy giving his human servant, the mortal king, the key to peace, calm, and order. This same timeless event is depicted in the biblical story of Moses receiving the Torah from Yahweh on the primordial mountain, Sinai.
 
-![](_page_38_Picture_8.jpeg)
-
-Shah Nameh (From a seventeenth-century Indian illuminated manuscript. Courtesy of Musée Condé, Chantilly, France. Photo: Giraudon/Art Resource.)
-
-giving his human servant, the mortal king, the key to peace, calm, and order. This same timeless event is depicted in the biblical story of Moses receiving the Torah from Yahweh on the primordial mountain, Sinai.
+![Shah Nameh (From a seventeenth-century Indian illuminated manuscript. Courtesy of Musée Condé, Chantilly, France. Photo: Giraudon/Art Resource.)](_page_38_Picture_8.jpeg)
 
 This mysterious order, expressed in the kingdom and even in its palaces and temples (often laid out as representations of the cosmos in miniature) and in human laws and in all human societal order customs, traditions, and spoken and unspoken taboos—is the manifestation of the ordering thoughts of the Creator God. In Ancient Egyptian mythology, this was alternately thought of as the god Ptah or as a goddess called Ma'at, "Right Order." We see this idea carried forward in early Hebrew thought in the figure of Wisdom in the biblical book of Proverbs, and even in the Greek and later Christian idea of Christ as the Logos, the ordering, generative, and creative Word the Gospel of John talks about. In Hinduism, this archetypal "right order" is called Dharma. In China, it is called the Tao, the "Way."
 
@@ -599,15 +600,12 @@ Another biblical story, the story of Saul, has a similar theme. Saul is another 
 
 Another example, from antiquity, is that of the Roman emperor Caligula. Although the previous emperors had held enormous power over the people and the Senate of Rome and, through their office, over the entire Mediterranean world, and although they had been turned into gods after their deaths, Caligula broke new ground when he declared himself a god while still on earth. The details of his madness and of his abuse and sadism toward all those around him are fascinating. Robert Graves's book I, Claudius and the television series based on the book give a chilling account of the development of the Shadow King as Tyrant in the person of Caligula.
 
-The Tyrant exploits and abuses others. He is ruthless, merciless, and without feeling when he is pursuing what he thinks is his own selfinterest. His degradation of others knows no bounds. He hates all beauty, all innocence, all strength, all talent, all life energy. He does so because, as we've said, he lacks inner structure, and he is afraidterrified, really-of his own hidden weakness and his underlying lack of potency.
+The Tyrant exploits and abuses others. He is ruthless, merciless, and without feeling when he is pursuing what he thinks is his own self interest. His degradation of others knows no bounds. He hates all beauty, all innocence, all strength, all talent, all life energy. He does so because, as we've said, he lacks inner structure, and he is afraid -- terrified, really-of his own hidden weakness and his underlying lack of potency.
 
-It is the Shadow King as Tyrant in the father who makes war on his sons' (and his daughters') joy and strength, their abilities and vitality. He fears their freshness, their newness of being, and the life-force surging through them, and he seeks to kill it. He does this with open verbal assaults and deprecation of their interests, hopes, and talents; or he does it, alternately, by ignoring their accomplishments, turning his
+It is the Shadow King as Tyrant in the father who makes war on his sons' (and his daughters') joy and strength, their abilities and vitality. He fears their freshness, their newness of being, and the life-force surging through them, and he seeks to kill it. He does this with open verbal assaults and deprecation of their interests, hopes, and talents; or he does it, alternately, by ignoring their accomplishments, turning his back on their disappointments, and registering boredom and lack of interest when, for instance, they come home from school and present him with a piece of artwork or a good grade on a test.
 
-![](_page_43_Picture_9.jpeg)
+![King Arthur (Illustration by Trevor Stubley from The Book of Merlyn by T. H. White, © 1977. Reproduced by permission of the University of Texas Press, Austin.)](_page_43_Picture_9.jpeg)
 
-King Arthur (Illustration by Trevor Stubley from The Book of Merlyn by T. H. White, © 1977. Reproduced by permission of the University of Texas Press, Austin.)
-
-back on their disappointments, and registering boredom and lack of interest when, for instance, they come home from school and present him with a piece of artwork or a good grade on a test.
 
 His attacks may not be limited to verbal or psychological abuse; they may include physical abuse. Spankings may turn into beatings. And there may be sexual assaults as well. The father possessed by the Tyrant may sexually exploit his daughters' or even his sons' weakness and vulnerability.
 
@@ -702,27 +700,19 @@ How does the Warrior know what aggressiveness is appropriate under the circumsta
 
 An example of this is the phenomenon of guerrilla warfare, an ancient tradition but one that has come into increasing use since the eighteenth century. The rebellious colonists adopted this technique in the American Revolutionary War. The Communists in China and later in Vietnam, under the guidance of the master strategist Ho Chi Minh, used it with stunning success to defeat the more cumbersome military operations of his enemies. Most recently, the Afghan resistance fighters used this strategy to drive the Soviet army out of their country. The Warrior knows when he has the force to defeat his opponent by conventional means and when he must adopt an unconventional strategy. He accurately assesses his own strength and skill. If he finds that a frontal assault will not work, he deflects his opponent's assault, spots the weakness in his flank, then "leaps" into battle. Here is a difference between the Warrior and the Hero. The Hero, as we've said, does not know his limitations; he is romantic about his invulnerability. The warrior, however, through his clarity of thinking realistically assesses his capacities and his limitations in any given situation.
 
-In the Bible, King David, up against the superior force of the armies of Saul, at first avoided direct confrontation with Saul's troops, allowing
+In the Bible, King David, up against the superior force of the armies of Saul, at first avoided direct confrontation with Saul's troops, allowing Saul to wear himself out pursuing him. David and his ragtag band were guerrillas, living off the land and moving fast. Then David, evaluating his situation clearly, fled Saul's kingdom and went over to the Philistine king. From this position, he had the force of thousands of Philistine soldiers behind him. He had put himself into position to checkmate Saul. Then, again through his accurate assessment of the situation at the time, David reentered Saul's kingdom, gathered his own troops, and waited for Saul's collapse. Sometimes, the maxim "Forward, always forward!" means shifting tactics. It means a flexibility of strategy that comes from razor-sharp evaluation.
 
-![](_page_51_Picture_8.jpeg)
-
-Achilles and Patroclus (Internal medallion of cup illustration by Greek Sosias Painter, ca. 500 B.C.E. Courtesy of Antikenmuseum Berlin, Staatliche Museen Preuffischer Kulturbesitz. Photo: Ute Jung.)
-
-Saul to wear himself out pursuing him. David and his ragtag band were guerrillas, living off the land and moving fast. Then David, evaluating his situation clearly, fled Saul's kingdom and went over to the Philistine king. From this position, he had the force of thousands of Philistine soldiers behind him. He had put himself into position to checkmate Saul. Then, again through his accurate assessment of the situation at the time, David reentered Saul's kingdom, gathered his own troops, and waited for Saul's collapse. Sometimes, the maxim "Forward, always forward!" means shifting tactics. It means a flexibility of strategy that comes from razor-sharp evaluation.
+![Achilles and Patroclus (Internal medallion of cup illustration by Greek Sosias Painter, ca. 500 B.C.E. Courtesy of Antikenmuseum Berlin, Staatliche Museen Preuffischer Kulturbesitz. Photo: Ute Jung.)](_page_51_Picture_8.jpeg)
 
 Modern fencing uses this kind of flexibility. Not only does the fencer train his body, he trains his mind as well. He learns to think with lightning speed, to look for the unguarded points in his opponent's stances and lunges; then he parries, attacks, and scores his hits. A young college man reported that after he took up fencing his classroom performance improved. He was able to spot, with lightning-swift clarity, the major themes in a complex lecture, evaluate the weaknesses in the supporting arguments, challenge statements with a sharpness of vision and a self-confidence he'd never known before, and force his professors and fellow students to either talk sense or drop their arguments. He knew then what he wanted to learn. And he knew how to get it.
 
 The Warrior traditions all affirm that, in addition to training, what enables a Warrior to reach clarity of thought is living with the awareness of his own imminent death. The Warrior knows the shortness of life and how fragile it is. A man under the guidance of the Warrior knows how few his days are. Rather than depressing him, this awareness leads him to an outpouring of life-force and to an intense experience of his life that is unknown to others. Every act counts. Each deed is done as if it were the last. The samurai swordsmen were taught to live their lives as if they were already dead. Castañeda's Don Juan taught that there is "no time" for anything but meaningful acts if we live with death as "our eternal companion."
 
-There is no time for hesitation. This sense of the imminence of death energizes the man accessing the Warrior energy to take decisive action. This means that he engages life. He never withdraws from it. He doesn't
-
-"think too much," because thinking too much can lead to doubt, and doubt to hesitation, and hesitation to inaction. Inaction can lead to losing the battle. The man who is a Warrior avoids self-consciousness, as we usually define it. His actions become second nature. They become unconscious reflex actions. But they are actions he has trained for through the exercise of enormous self-discipline. This is how Marines are made. A good Marine is one who can make split-second decisions and then act decisively.
+There is no time for hesitation. This sense of the imminence of death energizes the man accessing the Warrior energy to take decisive action. This means that he engages life. He never withdraws from it. He doesn't "think too much," because thinking too much can lead to doubt, and doubt to hesitation, and hesitation to inaction. Inaction can lead to losing the battle. The man who is a Warrior avoids self-consciousness, as we usually define it. His actions become second nature. They become unconscious reflex actions. But they are actions he has trained for through the exercise of enormous self-discipline. This is how Marines are made. A good Marine is one who can make split-second decisions and then act decisively.
 
 Part of what goes into acting decisively in any life situation, along with aggressiveness, clarity of thinking, the awareness of one's own death, is training. The Warrior energy is concerned with skill, power, and accuracy, and with control, both inner and outer, psychological and physical. The Warrior energy is concerned with training men to be "all that they can be"—in their thoughts, feelings, speech, and actions. Unlike the Hero's actions, the Warrior's actions are never overdone, never dramatic for the sake of drama; the Warrior never acts to reassure himself that he is as potent as he hopes he is. The Warrior never spends more energy than he absolutely has to. And he doesn't talk too much. Yul Brenner's character in the movie The Magnificent Seven is a study in trained self-control. He says little, moves with the physical control of a predator, attacks only the enemy, and has absolute mastery over the technology of his trade. That is another aspect of the Warrior's interest in skill, his mastery of the technology that enables him to reach his goal. He has developed skill with the "weapons" he uses to implement his decisions.
 
-His control is, first of all, over his mind and his attitudes; if these are right, the body will follow. A man accessing the Warrior archetype has "a positive mental attitude," as they say in sales training. This means that he has an unconquerable spirit, that he has great courage, that he is fearless, that he takes responsibility for his actions, and that he has self-discipline. Discipline means that he has the rigor to develop control and mastery over his mind and over his body, and that he has the capacity to withstand pain, both psychological and physical. He is willing to suffer to achieve what he wants to achieve. "No pain, no gain," we say. Whether you are literally a hunter, crouched for hours in the same position in the chill early morning of the Kalahari waiting for
-
-The Warrior your prey to come within range, or whether you're a triathlon trainee, a medical school student, an executive enduring the misguided attacks of your board members, or a husband trying to work out difficulties with your wife, you know that discipline of your mind and perhaps your body is essential.
+His control is, first of all, over his mind and his attitudes; if these are right, the body will follow. A man accessing the Warrior archetype has "a positive mental attitude," as they say in sales training. This means that he has an unconquerable spirit, that he has great courage, that he is fearless, that he takes responsibility for his actions, and that he has self-discipline. Discipline means that he has the rigor to develop control and mastery over his mind and over his body, and that he has the capacity to withstand pain, both psychological and physical. He is willing to suffer to achieve what he wants to achieve. "No pain, no gain," we say. Whether you are literally a hunter, crouched for hours in the same position in the chill early morning of the Kalahari waiting for The Warrior your prey to come within range, or whether you're a triathlon trainee, a medical school student, an executive enduring the misguided attacks of your board members, or a husband trying to work out difficulties with your wife, you know that discipline of your mind and perhaps your body is essential.
 
 The Warrior energy also shows what we can call a transpersonal commitment. His loyalty is to something—a cause, a god, a people, a task, a nation—larger than individuals, though that transpersonal loyalty may be focused through some important person, like a king. In the Arthurian stories, Lancelot, though fiercely devoted to Arthur and to Guinevere, is ultimately committed to the ideal of chivalry and to the God who lies behind such things as noble quests, "might for right," and the lifting up of the oppressed. Of course, because of his love for Guinevere, Lancelot unwittingly acts to destroy the object of his transpersonal commitment, Camelot. But he does so because he has encountered the paradoxically personal and transpersonal goal of romantic love. By then, he has already lost his access to the Warrior energies and has ceased being a knight.
 
@@ -738,9 +728,7 @@ Spiritual warriors abound in human history. The religion of Islam as a whole is 
 
 We see this same Warrior energy manifested in the Jesuit Order in Christianity, which for centuries taught self-negation for the sake of carrying God's message into the most hostile and dangerous areas of the world. The man who is a warrior is devoted to his cause, his God, his civilization, even unto death.
 
-This devotion to the transpersonal ideal or goal even to the point of personal annihilation leads a man to another of the Warrior's characteristics. He is emotionally distant as long as he is in the Warrior. This does not mean that the man accessing the Warrior in his fullness is cruel, just that he does not make his decisions and implement them out of emotional relatedness to anyone or anything except his ideal. He is, as Don Juan says, "unavailable," or "inaccessible." As he says, "To be
-
-87 inaccessible means that you touch the world around you sparingly," with emotional detachment. This attitude is part of the clarity of the Warrior's thinking too. He looks at his tasks, his decisions, and his actions dispassionately and unemotionally. Samurai training involved the following kind of psychological exercise. Whenever, the teaching went, you feel yourself frightened or despairing, don't say to yourself, "I am afraid," or "I am despairing." Say, "There is someone who is afraid," or "There is someone who is despairing. Now, what can he do about this?" This detached way of experiencing a threatening situation objectifies the situation and allows for a clearer and more strategically advantageous view of it. The warrior is then able to act with less regard for his personal feelings; he will act more forcefully, swiftly, and efficiently with himself out of the way.
+This devotion to the transpersonal ideal or goal even to the point of personal annihilation leads a man to another of the Warrior's characteristics. He is emotionally distant as long as he is in the Warrior. This does not mean that the man accessing the Warrior in his fullness is cruel, just that he does not make his decisions and implement them out of emotional relatedness to anyone or anything except his ideal. He is, as Don Juan says, "unavailable," or "inaccessible." As he says, "To be inaccessible means that you touch the world around you sparingly," with emotional detachment. This attitude is part of the clarity of the Warrior's thinking too. He looks at his tasks, his decisions, and his actions dispassionately and unemotionally. Samurai training involved the following kind of psychological exercise. Whenever, the teaching went, you feel yourself frightened or despairing, don't say to yourself, "I am afraid," or "I am despairing." Say, "There is someone who is afraid," or "There is someone who is despairing. Now, what can he do about this?" This detached way of experiencing a threatening situation objectifies the situation and allows for a clearer and more strategically advantageous view of it. The warrior is then able to act with less regard for his personal feelings; he will act more forcefully, swiftly, and efficiently with himself out of the way.
 
 Often, in life, we need to "step back," we say, from a situation in order to gain perspective, so that we can act. The Warrior needs room to swing his sword. He needs separation from his opponents in the outer world and from his own inner opponents in the form of negative emotions. Boxers in the ring are separated by the referee when they get too close to each other and engage each other in body-locks.
 
@@ -770,7 +758,19 @@ A contemporary image of the Warrior turned passionless killing machine is, of co
 
 Sometimes, though, the Sadist's cruelty is passionate. In mythology, we hear of avenging gods, and of the "wrath of God." In India, we see Shiva dancing the dance of universal destruction. In the Bible, Yahweh orders the fiery destruction of whole civilizations. Early in the Old Testament, we see this angry and vengeful God reducing the planet to mud through a great deluge, killing off nearly every living thing.
 
-Peter Paul Rubens: Rape of Persephone, 1636-1638. (©The Prado Museum, Madrid. Photo; ARXIU MAS.)
+<figure>
+  <img src="_page_56_Picture_8.jpeg"
+       alt="Peter Paul Rubens, The Rape of Persephone, 1636–1638">
+
+  <figcaption>
+    <em>Peter Paul Rubens, <strong>The Rape of Persephone</strong>, 1636–1638. © Museo Nacional del Prado, Madrid. Photograph: Arxiu Mas.</em>
+  </figcaption>
+</figure>
+
+<p>&nbsp;</p>
+
+<p>
+
 
 The Warrior as avenging spirit comes into us when we are very frightened and very angry. A kind of bloodlust, as it is called, comes over men in the stressful situation of actual combat, as well as in other stressful life situations. There is a scene in the movie Apocalypse Now in which the crew of the American gunboat, in a sampan boarding incident, panics and murders everyone on the sampan. Only after their fear has subsided do they realize that the people they have just murdered in their "battle frenzy" were innocent villagers going to market. A similar scene is presented in the movie Platoon, when the GIs open fire on a helpless Vietnamese village. This kind of savage outburst has haunted Americans ever since the incident at My Lai in which Lieutenant Calley, apparently terrified and angry, ordered the murder of every man, woman, and child in the village. That the sadistic Warrior actually loves such carnage and cruelty is made explicit again in Patton, when General Patton looks out over the smoking remains and the charred corpses of a great tank battle between the American and German forces and sighs, "God, I do love it so!"
 
