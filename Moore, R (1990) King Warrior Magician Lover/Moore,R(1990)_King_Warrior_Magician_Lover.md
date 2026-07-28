@@ -190,7 +190,7 @@ As we have suggested, the adult man does not lose his boyishness, and the archet
 
 The first, the most primal, of the immature masculine energies is the Divine Child. We are all familiar with the Christian story of the birth of the baby Jesus. He is a mystery. He comes from the Divine Realm, born of a virgin woman. Miraculous things and events attend him: the star, the worshiping shepherds, the wise men from Persia. Surrounded by his worshipers, he occupies the central place not only in the stable but in the universe. Even the animals, in popular Christmas songs, attend him. In the pictures, he radiates light, haloed by the soft, glistening straw he lies upon. Because he is God, he is almighty. At the same time, he is totally vulnerable and helpless. No sooner is he born than the evil King Herod sniffs him out and seeks to kill him. He must be protected and spirited away to Egypt until he can be strong enough to begin his life's work and until the forces that would destroy him have spent their energy.
 
-What is not often realized is that this myth does not stand alone. The religions of the world are rich with stories of the miraculous Baby Boy. The Christian story itself is modeled in part on the story of the birth of the great Persian prophet Zoroaster, complete with miracles in nature, magi, and threats on his life. In Judaism, there is the story of the baby Moses born to be the deliverer of his people, to be the Great Teacher and the Mediator between God and human beings. He was raised as a prince of Egypt. And yet, in his first days, his life was threatened by an edict from the pharaoh, and he was placed, helpless
+What is not often realized is that this myth does not stand alone. The religions of the world are rich with stories of the miraculous Baby Boy. The Christian story itself is modeled in part on the story of the birth of the great Persian prophet Zoroaster, complete with miracles in nature, magi, and threats on his life. In Judaism, there is the story of the baby Moses born to be the deliverer of his people, to be the Great Teacher and the Mediator between God and human beings. He was raised as a prince of Egypt. And yet, in his first days, his life was threatened by an edict from the pharaoh, and he was placed, helpless and vulnerable, in a reed basket and set adrift on the Nile. The model for this story was the much older legend of the infancy of the great Mesopotamian king Sargon of Akkad. And from all over the world we hear legends about the wondrous infancy of the baby Buddha, the baby Krishna, the baby Dionysus.
 
 <br>
 
@@ -241,13 +241,10 @@ Figure 1. The Archetypes of the Immature and the Mature Masculine
 Figure 2. THE PYRAMIDAL STRUCTURE OF THE MATURE AND IMMATURE MASCULINE SELF
 
 
-THE LAYERED PYRAMID, OR THE PYRAMID WITHIN A PYRAMID, OF THE MASCULINE SELF STRUCTURES
+![](PAGE20.svg)
 
-![](_page_21_Picture_5.jpeg)
+Figure 3. THE LAYERED PYRAMID OF THE MASCULINE SELF STRUCTURES
 
-Figure 3.
-
-and vulnerable, in a reed basket and set adrift on the Nile. The model for this story was the much older legend of the infancy of the great Mesopotamian king Sargon of Akkad. And from all over the world we hear legends about the wondrous infancy of the baby Buddha, the baby Krishna, the baby Dionysus.
 
 Even less known is that this figure of the Divine Baby Boy, universal in our religions, is also universal inside ourselves. This can be seen from the dreams of men in psychoanalysis, who frequently, especially as they start to get better, dream about a Baby Boy who fills the dream with light and joy and a sense of wonder and refreshment. Often, too, when a man in therapy starts to feel better, the urge comes to him, perhaps for the first time in his life, to have children.
 
@@ -267,9 +264,7 @@ The psychologist Alfred Adler talked about it as the hidden "power drive" in eac
 
 Heinz Kohut, who developed what he called "self-psychology," talks about it as "the grandiose self organization," which is demanding of ourselves and others in ways that can never be fulfilled. The most recent psychoanalytic theory suggests that people who are possessed by or identified with this "infantile" grandiosity are expressing a "narcissistic personality disorder."
 
-The followers of Carl Jung, however, view this Divine Child differently. They do not see it in largely pathological terms. Jungians believe that the Divine Child is a vital aspect of the Archetypal Self—the Self with a capital *S*, because it is different from the Ego, which is the self with a small *s*. For Jungians, this Divine Child within us is the source of life. It possesses magical, empowering qualities, and getting in touch
-
-with it produces an enormous sense of well-being, enthusiasm for life, and great peace and joy, as it did for the young boy under the oak tree.
+The followers of Carl Jung, however, view this Divine Child differently. They do not see it in largely pathological terms. Jungians believe that the Divine Child is a vital aspect of the Archetypal Self—the Self with a capital *S*, because it is different from the Ego, which is the self with a small *s*. For Jungians, this Divine Child within us is the source of life. It possesses magical, empowering qualities, and getting in touch with it produces an enormous sense of well-being, enthusiasm for life, and great peace and joy, as it did for the young boy under the oak tree.
 
 These differing schools of psychoanalysis, we believe, are each right. Each picks up on the two different aspects of this energy—the one integrated and unified, and the other the shadow side. At the top of the triangular archetypal structure, we experience the Divine Child, who renews us and keeps us "young at heart." At the base of the triangle, we experience what we call the High Chair Tyrant and the Weakling Prince.
 
