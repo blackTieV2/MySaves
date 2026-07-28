@@ -1,0 +1,80 @@
+name: Fix Moore figure captions
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fix-moore-figure-captions.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix-captions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Convert descriptive Markdown image alt text into visible captions
+        shell: bash
+        run: |
+          python <<'PY'
+          from pathlib import Path
+          import html
+          import re
+
+          path = Path('Moore, R (1990) King Warrior Magician Lover/Moore,R(1990)_King_Warrior_Magician_Lover.md')
+          text = path.read_text(encoding='utf-8')
+
+          pattern = re.compile(
+              r'(?m)^!\[([^\]\n]+)\]\(([^)\n]+\.(?:jpe?g|png|webp|svg))\)\s*$'
+          )
+
+          changed = []
+
+          def replace(match: re.Match[str]) -> str:
+              caption = match.group(1).strip()
+              src = match.group(2).strip()
+
+              # Leave ordinary short accessibility labels alone. This conversion is
+              # only for the long source-style captions produced by the PDF converter.
+              if len(caption) < 35 and not any(token in caption for token in ('Courtesy', 'Photo', 'Museum', 'manuscript', '©')):
+                  return match.group(0)
+
+              alt = re.sub(r'\s+', ' ', caption)
+              changed.append(src)
+
+              return (
+                  '<figure>\n'
+                  f'  <img src="{html.escape(src, quote=True)}"\n'
+                  f'       alt="{html.escape(alt, quote=True)}">\n\n'
+                  '  <figcaption>\n'
+                  f'    <em>{html.escape(caption)}</em>\n'
+                  '  </figcaption>\n'
+                  '</figure>\n\n'
+                  '<p>&nbsp;</p>'
+              )
+
+          updated = pattern.sub(replace, text)
+
+          if updated == text:
+              print('No unconverted descriptive image captions found.')
+          else:
+              path.write_text(updated, encoding='utf-8', newline='\n')
+              print(f'Converted {len(changed)} figure caption(s):')
+              for src in changed:
+                  print(f'  {src}')
+          PY
+
+      - name: Commit corrected captions
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- 'Moore, R (1990) King Warrior Magician Lover/Moore,R(1990)_King_Warrior_Magician_Lover.md'
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Convert Moore image titles to visible figure captions'
+          git push
