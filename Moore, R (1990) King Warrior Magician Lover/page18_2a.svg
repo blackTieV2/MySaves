@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1092.52">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        fill: #fff8d2;
+      }
+
+      .cls-7 {
+        fill: #eaa047;
+      }
+
+      .cls-8 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-9 {
+        letter-spacing: .02em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        font-size: 63.72px;
+      }
+
+      .cls-16, .cls-17, .cls-18, .cls-19 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        letter-spacing: .03em;
+      }
+
+      .cls-24 {
+        letter-spacing: 0em;
+      }
+
+      .cls-17 {
+        font-size: 36px;
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-18 {
+        font-size: 48px;
+      }
+
+      .cls-26 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-27 {
+        letter-spacing: 0em;
+      }
+
+      .cls-28 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .cls-30 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-31 {
+        fill: #ffe47b;
+      }
+
+      .cls-19 {
+        font-size: 72px;
+      }
+
+      .cls-32 {
+        letter-spacing: 0em;
+      }
+
+      .cls-33 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect class="cls-3" y="-411.96" width="2000" height="2000"/>
+    <g>
+      <polygon class="cls-31" points="369.36 857.37 1000.5 108.99 1000.5 1059.54 369.36 857.37"/>
+      <polygon class="cls-7" points="1630.64 857.37 999.5 108.99 999.5 1059.54 1630.64 857.37"/>
+      <path class="cls-6" d="m999.03,108.55c3.76,157.53,2.81,315.07,2.83,472.62.02,159.32.97,318.63-2.83,477.94-3.75-157.23-1.86-314.48-1.89-471.73-.03-159.62-1.92-319.22,1.89-478.82Z"/>
+    </g>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <text class="cls-19" transform="translate(441.18 856.19)"><tspan x="0" y="0">+</tspan></text>
+    <text/>
+    <text class="cls-19" transform="translate(900.22 964.2)"><tspan x="0" y="0">_</tspan></text>
+    <text class="cls-19" transform="translate(1084.49 991.2) rotate(-180) scale(1 -1)"><tspan x="0" y="0">+</tspan></text>
+    <text class="cls-16" transform="translate(1547.53 850.51) rotate(-180) scale(1 -1)"><tspan x="0" y="0">_</tspan></text>
+    <text class="cls-18" transform="translate(621.36 183.08)"><tspan class="cls-33" x="0" y="0">T</tspan><tspan x="23.52" y="0">he </tspan><tspan class="cls-21" x="84.38" y="0">M</tspan><tspan class="cls-28" x="122.5" y="0">A</tspan><tspan x="151.15" y="0">GICIAN</tspan></text>
+    <text class="cls-18" transform="translate(1084.49 180.6)"><tspan class="cls-33" x="0" y="0">T</tspan><tspan x="23.52" y="0">he</tspan><tspan class="cls-8" x="74.21" y="0"> </tspan><tspan class="cls-30" x="82.66" y="0">W</tspan><tspan x="120.53" y="0">ARRIOR</tspan></text>
+    <text class="cls-17" transform="translate(65.56 928.45)"><tspan class="cls-5" x="0" y="0">T</tspan><tspan x="17.64" y="0">he </tspan><tspan class="cls-29" x="63.29" y="0">D</tspan><tspan class="cls-25" x="87.41" y="0">etached </tspan><tspan class="cls-27" x="216.79" y="0">M</tspan><tspan x="245.95" y="0">anipul</tspan><tspan class="cls-24" x="340.52" y="0">a</tspan><tspan class="cls-15" x="357.73" y="0">t</tspan><tspan x="369.43" y="0">or</tspan></text>
+    <text class="cls-17" transform="translate(1440.91 955.52)"><tspan class="cls-5" x="0" y="0">T</tspan><tspan x="17.64" y="0">he </tspan><tspan class="cls-20" x="63.29" y="0">M</tspan><tspan x="92.45" y="0">asochist</tspan></text>
+    <text class="cls-17" transform="translate(1140.27 1059.05)"><tspan class="cls-5" x="0" y="0">T</tspan><tspan x="17.64" y="0">he </tspan><tspan class="cls-11" x="63.29" y="0">S</tspan><tspan x="81.14" y="0">adist</tspan></text>
+    <text class="cls-17" transform="translate(406.41 1059.05)"><tspan class="cls-5" x="0" y="0">T</tspan><tspan x="17.64" y="0">he </tspan><tspan class="cls-29" x="63.29" y="0">D</tspan><tspan class="cls-25" x="87.41" y="0">e</tspan><tspan class="cls-12" x="105.44" y="0">n</tspan><tspan x="124.95" y="0">ying</tspan><tspan class="cls-13" x="190.44" y="0"> </tspan><tspan x="195.08" y="0">“</tspan><tspan class="cls-10" x="207.83" y="0">I</tspan><tspan x="216.79" y="0">nno</tspan><tspan class="cls-15" x="276.51" y="0">c</tspan><tspan x="292.42" y="0">e</tspan><tspan class="cls-24" x="310.46" y="0">n</tspan><tspan class="cls-9" x="330.3" y="0">t</tspan><tspan class="cls-4" x="342.97" y="0">”</tspan><tspan x="352.62" y="0" xml:space="preserve"> One</tspan></text>
+    <text class="cls-17" transform="translate(50.54 82.84)"><tspan x="0" y="0">THE </tspan><tspan class="cls-22" x="66.71" y="0">P</tspan><tspan class="cls-5" x="85.53" y="0">Y</tspan><tspan class="cls-32" x="104.76" y="0">R</tspan><tspan class="cls-24" x="124.31" y="0">A</tspan><tspan x="146.19" y="0">MI</tspan><tspan class="cls-2" x="183.74" y="0">D</tspan><tspan x="207.21" y="0">AL STRU</tspan><tspan class="cls-23" x="332.17" y="0">C</tspan><tspan x="354.05" y="0">TURE OF</tspan><tspan class="cls-14" x="482.28" y="0"> </tspan><tspan x="488.44" y="0">THE </tspan><tspan class="cls-1" x="555.15" y="0">M</tspan><tspan class="cls-26" x="583.73" y="0">A</tspan><tspan x="602.99" y="0">TURE </tspan><tspan class="cls-1" x="688.88" y="0">M</tspan><tspan x="717.47" y="0">ASCULINE SELF</tspan></text>
+  </g>
+</svg>
