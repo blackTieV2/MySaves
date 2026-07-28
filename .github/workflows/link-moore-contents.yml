@@ -1,9 +1,6 @@
 name: Link Moore contents
 
 on:
-  push:
-    paths:
-      - '.github/workflows/link-moore-contents.yml'
   workflow_dispatch:
 
 permissions:
@@ -45,7 +42,7 @@ jobs:
               ('the-warrior', lambda h: h.startswith('6 the warrior')),
               ('the-magician', lambda h: h.startswith('7 the magician')),
               ('the-lover', lambda h: h.startswith('8 the lover')),
-              ('conclusion-accessing-the-archetypal-powers', lambda h: 'conclusion' in h and 'accessing the archetypal' in h or h.startswith('accessing the archetypal powers of the mature masculine')),
+              ('conclusion-accessing-the-archetypal-powers', lambda h: ('conclusion' in h and 'accessing the archetypal' in h) or h.startswith('accessing the archetypal powers of the mature masculine')),
               ('selected-readings', lambda h: h == 'selected readings'),
           ]
 
@@ -70,31 +67,34 @@ jobs:
               text = text[:pos] + '<a id="preface"></a>\n\n' + text[pos:]
               found.add('preface')
 
-          toc = '''# Contents
-
-| Section | Page |
-|---|---:|
-| [Preface](#preface) | xi |
-| [Acknowledgments](#acknowledgments) | xiii |
-| [Introduction](#introduction) | xv |
-| [Part I: From Boy Psychology to Man Psychology](#part-i) | 1 |
-| [1. The Crisis in Masculine Ritual Process](#crisis-in-masculine-ritual-process) | 3 |
-| [2. Masculine Potentials](#masculine-potentials) | 9 |
-| [3. Boy Psychology](#boy-psychology) | 13 |
-| [4. Man Psychology](#man-psychology) | 43 |
-| [Part II: Decoding the Male Psyche—The Four Archetypes of the Mature Masculine](#part-ii) | 47 |
-| [5. The King](#the-king) | 49 |
-| [6. The Warrior](#the-warrior) | 75 |
-| [7. The Magician](#the-magician) | 97 |
-| [8. The Lover](#the-lover) | 119 |
-| [Conclusion: Accessing the Archetypal Powers of the Mature Masculine](#conclusion-accessing-the-archetypal-powers) | 143 |
-| [Selected Readings](#selected-readings) | 157 |
-'''
+          toc_lines = [
+              '# Contents',
+              '',
+              '| Section | Page |',
+              '|---|---:|',
+              '| [Preface](#preface) | xi |',
+              '| [Acknowledgments](#acknowledgments) | xiii |',
+              '| [Introduction](#introduction) | xv |',
+              '| [Part I: From Boy Psychology to Man Psychology](#part-i) | 1 |',
+              '| [1. The Crisis in Masculine Ritual Process](#crisis-in-masculine-ritual-process) | 3 |',
+              '| [2. Masculine Potentials](#masculine-potentials) | 9 |',
+              '| [3. Boy Psychology](#boy-psychology) | 13 |',
+              '| [4. Man Psychology](#man-psychology) | 43 |',
+              '| [Part II: Decoding the Male Psyche—The Four Archetypes of the Mature Masculine](#part-ii) | 47 |',
+              '| [5. The King](#the-king) | 49 |',
+              '| [6. The Warrior](#the-warrior) | 75 |',
+              '| [7. The Magician](#the-magician) | 97 |',
+              '| [8. The Lover](#the-lover) | 119 |',
+              '| [Conclusion: Accessing the Archetypal Powers of the Mature Masculine](#conclusion-accessing-the-archetypal-powers) | 143 |',
+              '| [Selected Readings](#selected-readings) | 157 |',
+              '',
+          ]
+          toc = '\n'.join(toc_lines)
 
           match = re.search(r'(?ms)^# Contents\s*\n\s*(?:\|.*\n)+', text)
           if not match:
               raise SystemExit('Could not identify existing Contents table.')
-          text = text[:match.start()] + toc + '\n' + text[match.end():].lstrip('\n')
+          text = text[:match.start()] + toc + text[match.end():].lstrip('\n')
 
           path.write_text(text, encoding='utf-8', newline='\n')
           print('Anchors found:', ', '.join(sorted(found)))
