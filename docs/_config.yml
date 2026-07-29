@@ -1,0 +1,12 @@
+title: King, Warrior, Magician, Lover
+description: A readable web edition of the publication.
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+  syntax_highlighter: rouge
+permalink: pretty
+exclude:
+  - README.md
