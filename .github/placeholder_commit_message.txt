@@ -1,0 +1,1 @@
+chore(docs): replace placeholder page19_2c.svg with full svg and add fallback fonts
