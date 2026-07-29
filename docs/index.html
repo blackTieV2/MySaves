@@ -8,7 +8,7 @@
   <style>
     :root {
       --page: #f3f4f6;
-      --paper: #ffffff;
+      --paper: #fff;
       --ink: #242424;
       --muted: #666;
       --rule: #d0d7de;
@@ -26,11 +26,11 @@
     }
     main {
       width: min(980px, calc(100% - 2rem));
-      margin: 2rem auto;
-      padding: 2.5rem 3rem 5rem;
+      min-height: 100vh;
+      margin: 0 auto;
+      padding: 2rem 2.25rem 5rem;
       background: var(--paper);
-      box-shadow: 0 1px 8px rgba(0,0,0,.12);
-      overflow: hidden;
+      box-shadow: 0 0 18px rgba(0,0,0,.08);
     }
     h1, h2, h3, h4, h5, h6 {
       line-height: 1.25;
@@ -42,6 +42,7 @@
       max-width: 100%;
       height: auto;
       margin: 1.25rem auto 0;
+      background: #fff;
     }
     img[src$=".svg"], img[src*=".svg?"] {
       width: 100%;
@@ -61,16 +62,14 @@
       width: 100%;
       border-collapse: collapse;
       margin: 1rem 0 1.5rem;
+      background: #fff;
     }
     th, td {
       border: 1px solid var(--rule);
       padding: .45rem .65rem;
       vertical-align: top;
     }
-    table img[src$=".svg"] {
-      width: 100%;
-      max-height: 560px;
-    }
+    td img { width: 100%; margin-top: 0; }
     blockquote {
       margin-left: 0;
       padding-left: 1rem;
@@ -90,14 +89,9 @@
     }
     @media (max-width: 700px) {
       body { font-size: 16px; }
-      main {
-        width: 100%;
-        margin: 0;
-        padding: 1.25rem 1rem 3rem;
-        box-shadow: none;
-      }
+      main { width: 100%; padding: 1rem 1rem 4rem; box-shadow: none; }
       table, tbody, tr, td { display: block; width: 100%; }
-      td { border: 0; padding: .25rem 0; }
+      td + td { margin-top: 1rem; }
     }
   </style>
 </head>
@@ -111,6 +105,8 @@
     (async () => {
       const target = document.getElementById('publication');
       const markdownFile = './Moore,R(1990)_King_Warrior_Magician_Lover.md';
+      const sourceRoot = 'https://raw.githubusercontent.com/blackTieV2/MySaves/main/' +
+        'Moore%2C%20R%20%281990%29%20King%20Warrior%20Magician%20Lover/';
 
       try {
         const response = await fetch(markdownFile, { cache: 'no-cache' });
@@ -120,13 +116,19 @@
         marked.setOptions({ gfm: true, breaks: false, headerIds: true, mangle: false });
         target.innerHTML = marked.parse(markdown);
 
-        /* Keep image paths relative to /docs. This allows GitHub Pages to serve
-           the SVG/JPEG files copied into docs instead of bypassing them through
-           raw.githubusercontent.com. */
         for (const image of target.querySelectorAll('img')) {
+          const original = image.getAttribute('src');
+          if (!original || /^(?:https?:|data:|\/)/i.test(original)) continue;
+
+          const clean = original.split('#')[0].split('?')[0];
+          const filename = clean.substring(clean.lastIndexOf('/') + 1);
+          image.src = sourceRoot + encodeURIComponent(filename);
           image.loading = 'lazy';
           image.decoding = 'async';
-          if (!image.hasAttribute('alt')) image.alt = '';
+          image.addEventListener('error', () => {
+            image.alt = `Image unavailable: ${filename}`;
+            console.error('Image failed to load:', image.src);
+          }, { once: true });
         }
 
         for (const link of target.querySelectorAll('a[href^="#"]')) {
