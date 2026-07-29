@@ -1,0 +1,208 @@
+name: Build Moore Pages
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/build-moore-pages.yml'
+      - 'Moore, R (1990) King Warrior Magician Lover/**'
+
+permissions:
+  contents: write
+
+jobs:
+  build-pages-source:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Build docs publication
+        shell: bash
+        run: |
+          python <<'PY'
+          from pathlib import Path
+          import re
+          import shutil
+
+          source_dir = Path('Moore, R (1990) King Warrior Magician Lover')
+          source_md = source_dir / 'Moore,R(1990)_King_Warrior_Magician_Lover.md'
+          docs = Path('docs')
+          image_dir = docs / 'assets' / 'images'
+
+          if not source_md.exists():
+              raise SystemExit(f'Missing source publication: {source_md}')
+
+          docs.mkdir(exist_ok=True)
+          image_dir.mkdir(parents=True, exist_ok=True)
+
+          text = source_md.read_text(encoding='utf-8').lstrip('\ufeff')
+
+          # Remove existing front matter if the source acquires it later.
+          text = re.sub(r'\A---\s*\n.*?\n---\s*\n', '', text, count=1, flags=re.S)
+
+          # Collect local images from Markdown and HTML image syntax.
+          md_pattern = re.compile(r'!\[([^\]]*)\]\((?:<)?([^)>\s]+)(?:>)?(?:\s+["\'][^"\']*["\'])?\)')
+          html_pattern = re.compile(r'(<img\b[^>]*?\bsrc=["\'])([^"\']+)(["\'])', re.I)
+
+          references = set()
+          for match in md_pattern.finditer(text):
+              references.add(match.group(2))
+          for match in html_pattern.finditer(text):
+              references.add(match.group(2))
+
+          copied = []
+          missing = []
+
+          def resolve_local(reference: str):
+              if reference.startswith(('http://', 'https://', 'data:', '#', '/')):
+                  return None
+              clean = reference.split('#', 1)[0].split('?', 1)[0]
+              candidate = source_dir / clean
+              if not candidate.exists():
+                  candidate = source_dir / Path(clean).name
+              return candidate
+
+          replacement = {}
+          for ref in sorted(references):
+              src = resolve_local(ref)
+              if src is None:
+                  continue
+              if not src.exists() or not src.is_file():
+                  missing.append(ref)
+                  continue
+              destination = image_dir / src.name
+              shutil.copy2(src, destination)
+              replacement[ref] = f'assets/images/{src.name}'
+              copied.append(src.name)
+
+          def replace_md(match):
+              alt, ref = match.group(1), match.group(2)
+              return f'![{alt}]({replacement.get(ref, ref)})'
+
+          def replace_html(match):
+              prefix, ref, quote = match.groups()
+              return f'{prefix}{replacement.get(ref, ref)}{quote}'
+
+          text = md_pattern.sub(replace_md, text)
+          text = html_pattern.sub(replace_html, text)
+
+          front_matter = '''---
+layout: default
+title: King, Warrior, Magician, Lover
+description: A web edition of Robert Moore and Douglas Gillette's King, Warrior, Magician, Lover.
+---
+
+'''
+          (docs / 'index.md').write_text(front_matter + text.rstrip() + '\n', encoding='utf-8', newline='\n')
+
+          config = '''title: King, Warrior, Magician, Lover
+description: A readable web edition of the publication.
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+  syntax_highlighter: rouge
+permalink: pretty
+exclude:
+  - README.md
+'''
+          (docs / '_config.yml').write_text(config, encoding='utf-8', newline='\n')
+
+          css_dir = docs / 'assets' / 'css'
+          css_dir.mkdir(parents=True, exist_ok=True)
+          css = '''---
+---
+@import "minima";
+
+.wrapper {
+  max-width: 980px;
+}
+
+.post-content,
+.page-content {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.25rem auto 0;
+}
+
+figure {
+  margin: 1.5rem 0 2rem;
+}
+
+figure img {
+  margin-bottom: 0.35rem;
+}
+
+figcaption {
+  margin-top: 0;
+  font-size: 0.88rem;
+  line-height: 1.3;
+  color: #555;
+}
+
+table {
+  width: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4 {
+  scroll-margin-top: 1.5rem;
+}
+'''
+          (css_dir / 'style.scss').write_text(css, encoding='utf-8', newline='\n')
+
+          print(f'Copied {len(copied)} referenced image file(s).')
+          if missing:
+              print('WARNING: unresolved local image references:')
+              for ref in missing:
+                  print(f'  {ref}')
+              raise SystemExit('One or more local images could not be resolved.')
+          PY
+
+      - name: Validate generated page and image paths
+        shell: bash
+        run: |
+          python <<'PY'
+          from pathlib import Path
+          import re
+
+          page = Path('docs/index.md')
+          text = page.read_text(encoding='utf-8')
+          refs = set(re.findall(r'(?:src=["\']|!\[[^\]]*\]\()([^"\')]+)', text))
+          missing = []
+          for ref in refs:
+              clean = ref.split('#', 1)[0].split('?', 1)[0]
+              if clean.startswith(('http://', 'https://', 'data:', '#', '/')):
+                  continue
+              if not (Path('docs') / clean).exists():
+                  missing.append(ref)
+          if missing:
+              raise SystemExit('Missing generated page assets: ' + ', '.join(sorted(missing)))
+          print(f'Validated {len(refs)} image/link asset reference(s).')
+          PY
+
+      - name: Commit generated GitHub Pages source
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- docs
+          if git diff --cached --quiet; then
+            echo 'No docs changes detected.'
+            exit 0
+          fi
+          git commit -m 'Build correctly rendered Moore GitHub Pages site'
+          git push
