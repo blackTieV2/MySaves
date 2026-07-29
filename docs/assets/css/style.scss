@@ -1,0 +1,48 @@
+---
+---
+@import "minima";
+
+.wrapper {
+  max-width: 980px;
+}
+
+.post-content,
+.page-content {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.25rem auto 0;
+}
+
+figure {
+  margin: 1.5rem 0 2rem;
+}
+
+figure img {
+  margin-bottom: 0.35rem;
+}
+
+figcaption {
+  margin-top: 0;
+  font-size: 0.88rem;
+  line-height: 1.3;
+  color: #555;
+}
+
+table {
+  width: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4 {
+  scroll-margin-top: 1.5rem;
+}
