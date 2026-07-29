@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>King, Warrior, Magician, Lover</title>
+  <meta name="description" content="A readable web edition of King, Warrior, Magician, Lover.">
+  <style>
+    :root {
+      color-scheme: light dark;
+      --paper: #fff;
+      --ink: #242424;
+      --muted: #666;
+      --rule: #d0d7de;
+      --link: #0969da;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --paper: #111418;
+        --ink: #e6edf3;
+        --muted: #9da7b3;
+        --rule: #30363d;
+        --link: #58a6ff;
+      }
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 18px;
+      line-height: 1.65;
+    }
+    main {
+      width: min(980px, calc(100% - 2rem));
+      margin: 0 auto;
+      padding: 2rem 0 5rem;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      line-height: 1.25;
+      scroll-margin-top: 1rem;
+    }
+    a { color: var(--link); }
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 1.25rem auto 0;
+    }
+    figure {
+      margin: 1.5rem 0 2rem;
+    }
+    figure img { margin-bottom: .3rem; }
+    figcaption {
+      margin-top: 0;
+      color: var(--muted);
+      font-size: .88rem;
+      line-height: 1.3;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1rem 0 1.5rem;
+    }
+    th, td {
+      border: 1px solid var(--rule);
+      padding: .45rem .65rem;
+      vertical-align: top;
+    }
+    blockquote {
+      margin-left: 0;
+      padding-left: 1rem;
+      border-left: 4px solid var(--rule);
+      color: var(--muted);
+    }
+    hr { border: 0; border-top: 1px solid var(--rule); }
+    pre {
+      overflow-x: auto;
+      padding: 1rem;
+      border: 1px solid var(--rule);
+      border-radius: 6px;
+    }
+    .loading, .error {
+      font-family: system-ui, sans-serif;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <main id="publication">
+    <p class="loading">Loading publication…</p>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    (async () => {
+      const target = document.getElementById('publication');
+      const markdownFile = './Moore,R(1990)_King_Warrior_Magician_Lover.md';
+      const rawImageRoot = 'https://raw.githubusercontent.com/blackTieV2/MySaves/main/' +
+        'Moore%2C%20R%20%281990%29%20King%20Warrior%20Magician%20Lover/';
+
+      try {
+        const response = await fetch(markdownFile, { cache: 'no-cache' });
+        if (!response.ok) throw new Error(`Markdown request failed: ${response.status}`);
+
+        const markdown = await response.text();
+        marked.setOptions({ gfm: true, breaks: false, headerIds: true, mangle: false });
+        target.innerHTML = marked.parse(markdown);
+
+        for (const image of target.querySelectorAll('img')) {
+          const original = image.getAttribute('src');
+          if (!original || /^(?:https?:|data:|\/)/i.test(original)) continue;
+
+          const clean = original.split('#')[0].split('?')[0];
+          const filename = clean.substring(clean.lastIndexOf('/') + 1);
+          image.src = rawImageRoot + encodeURIComponent(filename);
+          image.loading = 'lazy';
+          image.decoding = 'async';
+        }
+
+        for (const link of target.querySelectorAll('a[href^="#"]')) {
+          link.addEventListener('click', event => {
+            const id = decodeURIComponent(link.getAttribute('href').slice(1));
+            const destination = document.getElementById(id) || document.querySelector(`[name="${CSS.escape(id)}"]`);
+            if (destination) {
+              event.preventDefault();
+              destination.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              history.replaceState(null, '', `#${encodeURIComponent(id)}`);
+            }
+          });
+        }
+      } catch (error) {
+        target.innerHTML = `<p class="error"><strong>The publication could not be loaded.</strong><br>${error.message}</p>`;
+        console.error(error);
+      }
+    })();
+  </script>
+</body>
+</html>
